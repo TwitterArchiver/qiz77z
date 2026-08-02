@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2051263939573682373",
+    "created_at": "2026-05-04T11:56:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T12:56:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051269739654287633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1979620411609612288",
+          "start": 0,
+          "username": "iamhaliz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051269739654287633",
+    "in_reply_to_user_id": "1979620411609612288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051265401820959015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iamhaliz 不太对啊。我去。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2051263939573682373",
+        "created_at": "2026-05-04T11:56:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T12:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051269739654287633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1979620411609612288",
+              "start": 0,
+              "username": "iamhaliz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051269739654287633",
+        "in_reply_to_user_id": "1979620411609612288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051265401820959015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iamhaliz 不太对啊。我去。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979620411609612288",
+        "conversation_id": "2051263939573682373",
+        "created_at": "2026-05-04T11:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T12:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051265401820959015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1878799432956702720",
+              "start": 0,
+              "username": "qiz77z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051265401820959015",
+        "in_reply_to_user_id": "1878799432956702720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051263939573682373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiz77z 我感觉还是有一点扑朔迷离"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050060286355554304/yYay5Spf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 91,
+          "like_count": 2297,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 1274
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-18T18:47:54.000Z",
+        "description": "就爱发点碎碎念\n所以\n欧服瓦有无🤓",
+        "id": "1979620411609612288",
+        "location": "London, England",
+        "name": "KashyyyK",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029328150287581184/zeuoU368_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 30,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 83
+        },
+        "username": "iamhaliz",
+        "verified": false
+      }
+    ]
+  }
+}

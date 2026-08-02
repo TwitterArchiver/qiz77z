@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050614798396923904",
+        "3_2050615210558500864"
+      ]
+    },
+    "author_id": "1878799432956702720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2050610743964570034",
+    "created_at": "2026-05-02T16:35:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T17:35:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050615266393166127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1765019304771325952",
+          "start": 0,
+          "username": "bushimianya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/K8DvqTPFgp",
+          "end": 44,
+          "expanded_url": "https://x.com/qiz77z/status/2050615266393166127/photo/1",
+          "media_key": "3_2050614798396923904",
+          "start": 21,
+          "url": "https://t.co/K8DvqTPFgp"
+        },
+        {
+          "display_url": "pic.x.com/K8DvqTPFgp",
+          "end": 44,
+          "expanded_url": "https://x.com/qiz77z/status/2050615266393166127/photo/1",
+          "media_key": "3_2050615210558500864",
+          "start": 21,
+          "url": "https://t.co/K8DvqTPFgp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050615266393166127",
+    "in_reply_to_user_id": "1765019304771325952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050612540481450412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bushimianya 影石nb不解释 https://t.co/K8DvqTPFgp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2050614798396923904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHU_S2WboAA5epv.jpg",
+        "width": 3000
+      },
+      {
+        "height": 2736,
+        "media_key": "3_2050615210558500864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHU_q1xaMAAI-6L.jpg",
+        "width": 1539
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050614798396923904",
+            "3_2050615210558500864"
+          ]
+        },
+        "author_id": "1878799432956702720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050610743964570034",
+        "created_at": "2026-05-02T16:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T17:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050615266393166127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1765019304771325952",
+              "start": 0,
+              "username": "bushimianya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K8DvqTPFgp",
+              "end": 44,
+              "expanded_url": "https://x.com/qiz77z/status/2050615266393166127/photo/1",
+              "media_key": "3_2050614798396923904",
+              "start": 21,
+              "url": "https://t.co/K8DvqTPFgp"
+            },
+            {
+              "display_url": "pic.x.com/K8DvqTPFgp",
+              "end": 44,
+              "expanded_url": "https://x.com/qiz77z/status/2050615266393166127/photo/1",
+              "media_key": "3_2050615210558500864",
+              "start": 21,
+              "url": "https://t.co/K8DvqTPFgp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050615266393166127",
+        "in_reply_to_user_id": "1765019304771325952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050612540481450412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bushimianya 影石nb不解释 https://t.co/K8DvqTPFgp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765019304771325952",
+        "conversation_id": "2050610743964570034",
+        "created_at": "2026-05-02T16:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T17:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050612540481450412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1878799432956702720",
+              "start": 0,
+              "username": "qiz77z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050612540481450412",
+        "in_reply_to_user_id": "1878799432956702720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050612110837871071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiz77z 之前想买pocket3，但是好像不适合当运动相机，所以准备买影石360Acepro2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050060286355554304/yYay5Spf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 89,
+          "like_count": 2252,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 1251
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T14:19:42.000Z",
+        "description": "无聊想死的一个人        希望你开心     别忘了自己",
+        "id": "1765019304771325952",
+        "name": "sth",
+        "pinned_tweet_id": "1784833954153189525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033223508688543744/DkCoFlLu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 105,
+          "like_count": 28398,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 2830
+        },
+        "username": "bushimianya",
+        "verified": false
+      }
+    ]
+  }
+}

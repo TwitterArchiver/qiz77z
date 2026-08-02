@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070735933197225985",
+        "3_2070735933071323136"
+      ]
+    },
+    "author_id": "1878799432956702720",
+    "conversation_id": "2070736032291803186",
+    "created_at": "2026-06-27T05:08:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T06:08:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070736032291803186"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rm4P7VMSpH",
+          "end": 44,
+          "expanded_url": "https://x.com/qiz77z/status/2070736032291803186/photo/1",
+          "media_key": "3_2070735933197225985",
+          "start": 21,
+          "url": "https://t.co/rm4P7VMSpH"
+        },
+        {
+          "display_url": "pic.x.com/rm4P7VMSpH",
+          "end": 44,
+          "expanded_url": "https://x.com/qiz77z/status/2070736032291803186/photo/1",
+          "media_key": "3_2070735933071323136",
+          "start": 21,
+          "url": "https://t.co/rm4P7VMSpH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070736032291803186",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老子看完在哭你知道吗……狼队别搞我了…… https://t.co/rm4P7VMSpH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2736,
+        "media_key": "3_2070735933197225985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLy7XCnbkAEWbNp.jpg",
+        "width": 1264
+      },
+      {
+        "height": 2736,
+        "media_key": "3_2070735933071323136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLy7XCJacAAzgtt.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070735933197225985",
+            "3_2070735933071323136"
+          ]
+        },
+        "author_id": "1878799432956702720",
+        "conversation_id": "2070736032291803186",
+        "created_at": "2026-06-27T05:08:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T06:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070736032291803186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rm4P7VMSpH",
+              "end": 44,
+              "expanded_url": "https://x.com/qiz77z/status/2070736032291803186/photo/1",
+              "media_key": "3_2070735933197225985",
+              "start": 21,
+              "url": "https://t.co/rm4P7VMSpH"
+            },
+            {
+              "display_url": "pic.x.com/rm4P7VMSpH",
+              "end": 44,
+              "expanded_url": "https://x.com/qiz77z/status/2070736032291803186/photo/1",
+              "media_key": "3_2070735933071323136",
+              "start": 21,
+              "url": "https://t.co/rm4P7VMSpH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070736032291803186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老子看完在哭你知道吗……狼队别搞我了…… https://t.co/rm4P7VMSpH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信 匿名看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "饺子大王zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069400150402121729/-WWeHiuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 87,
+          "like_count": 2458,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 1313
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      }
+    ]
+  }
+}

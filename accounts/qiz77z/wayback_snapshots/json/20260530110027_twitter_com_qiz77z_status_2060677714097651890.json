@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2060675764375470307",
+    "created_at": "2026-05-30T11:00:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T12:00:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060677714097651890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1987561311438610432",
+          "start": 0,
+          "username": "xrwi238646"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060677714097651890",
+    "in_reply_to_user_id": "1987561311438610432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060675764375470307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xrwi238646 没人记得你其实"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2060675764375470307",
+        "created_at": "2026-05-30T11:00:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T12:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060677714097651890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987561311438610432",
+              "start": 0,
+              "username": "xrwi238646"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060677714097651890",
+        "in_reply_to_user_id": "1987561311438610432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060675764375470307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xrwi238646 没人记得你其实"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987561311438610432",
+        "conversation_id": "2060675764375470307",
+        "created_at": "2026-05-30T10:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T11:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060675764375470307"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060675764375470307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果有一天我变成银荡的小猪了你们还会记得曾经那个碎碎念的可爱小猪吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信 匿名看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055314944363773952/lqU0-_2z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 90,
+          "like_count": 2306,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1382
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-09T16:42:13.000Z",
+        "description": "06｜男的｜不定时上线。｜欢迎互fo｜互fo会查主页成分。｜很多废话吵到你们报意丝。\n176（别骂我矮了谢谢）。目前65.3kg，健身中……\n一切过激发言由@QwQ8tuj指使 本人是无辜的。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 78,
+                "username": "QwQ8tuj"
+              }
+            ]
+          }
+        },
+        "id": "1987561311438610432",
+        "location": "0.1km",
+        "name": "装忧郁蹲在地上被狗认为是在出餐",
+        "pinned_tweet_id": "2054590311268311193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046234866090721280/Xsbi1Oxr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 175,
+          "like_count": 3375,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 1749
+        },
+        "username": "xrwi238646",
+        "verified": false
+      }
+    ]
+  }
+}

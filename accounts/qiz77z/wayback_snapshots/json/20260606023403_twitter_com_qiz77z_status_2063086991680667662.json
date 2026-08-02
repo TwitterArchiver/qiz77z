@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062945944459415552"
+      ],
+      "media_source_tweet_id": [
+        "2062945947370356913"
+      ]
+    },
+    "author_id": "1878799432956702720",
+    "conversation_id": "2063086991680667662",
+    "created_at": "2026-06-06T02:34:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T03:34:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063086991680667662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1684228553510985732",
+          "start": 3,
+          "username": "rlifle"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z2NZ3dEf3T",
+          "end": 35,
+          "expanded_url": "https://x.com/rlifle/status/2062945947370356913/photo/1",
+          "media_key": "3_2062945944459415552",
+          "start": 12,
+          "url": "https://t.co/Z2NZ3dEf3T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063086991680667662",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 179
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062945947370356913",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rlifle: https://t.co/Z2NZ3dEf3T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2062945944459415552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKEOaBJWEAAQWXX.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062945944459415552"
+          ],
+          "media_source_tweet_id": [
+            "2062945947370356913"
+          ]
+        },
+        "author_id": "1878799432956702720",
+        "conversation_id": "2063086991680667662",
+        "created_at": "2026-06-06T02:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T03:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063086991680667662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1684228553510985732",
+              "start": 3,
+              "username": "rlifle"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z2NZ3dEf3T",
+              "end": 35,
+              "expanded_url": "https://x.com/rlifle/status/2062945947370356913/photo/1",
+              "media_key": "3_2062945944459415552",
+              "start": 12,
+              "url": "https://t.co/Z2NZ3dEf3T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063086991680667662",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 179
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062945947370356913",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rlifle: https://t.co/Z2NZ3dEf3T"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062945944459415552"
+          ]
+        },
+        "author_id": "1684228553510985732",
+        "conversation_id": "2062945947370356913",
+        "created_at": "2026-06-05T17:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T18:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062945947370356913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z2NZ3dEf3T",
+              "end": 23,
+              "expanded_url": "https://x.com/rlifle/status/2062945947370356913/photo/1",
+              "media_key": "3_2062945944459415552",
+              "start": 0,
+              "url": "https://t.co/Z2NZ3dEf3T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062945947370356913",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 12734,
+          "like_count": 979,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 179
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Z2NZ3dEf3T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信 匿名看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055314944363773952/lqU0-_2z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 87,
+          "like_count": 2333,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 1406
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T15:46:01.000Z",
+        "description": "",
+        "id": "1684228553510985732",
+        "location": "vnawila on discord 𓏵",
+        "name": "ִֶָ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962091491615973376/WH-cF7oU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6151,
+          "following_count": 101,
+          "like_count": 8565,
+          "listed_count": 9,
+          "media_count": 147,
+          "tweet_count": 816
+        },
+        "username": "rlifle",
+        "verified": false
+      }
+    ]
+  }
+}

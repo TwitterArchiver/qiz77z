@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2081306638120780230",
+    "created_at": "2026-07-26T18:28:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T19:28:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081446571586338864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1734982674593501189",
+          "start": 0,
+          "username": "gexry23454"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081446571586338864",
+    "in_reply_to_user_id": "1734982674593501189",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081446203439599848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gexry23454 想的挺美"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2081306638120780230",
+        "created_at": "2026-07-26T18:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T19:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081446571586338864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1734982674593501189",
+              "start": 0,
+              "username": "gexry23454"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081446571586338864",
+        "in_reply_to_user_id": "1734982674593501189",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081446203439599848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gexry23454 想的挺美"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1734982674593501189",
+        "conversation_id": "2081306638120780230",
+        "created_at": "2026-07-26T18:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T19:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081446203439599848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1878799432956702720",
+              "start": 0,
+              "username": "qiz77z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081446203439599848",
+        "in_reply_to_user_id": "1878799432956702720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081306638120780230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiz77z 我填地狱怎么没人找我月啊…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "NG",
+              "full_name": "Obolo-Eke (1), Enugu State, Nigeria",
+              "geo": {
+                "coordinates": [
+                  7.63333,
+                  6.88333
+                ],
+                "type": "Point"
+              },
+              "locality": "Obolo-Eke (1)",
+              "region": "Enugu State"
+            }
+          ]
+        },
+        "description": "祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "1",
+        "name": "饺子大王",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069400150402121729/-WWeHiuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 90,
+          "like_count": 2624,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 1468
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T17:04:50.000Z",
+        "description": "妈的这里是地狱吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gexry",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gexry",
+                "start": 0,
+                "url": "https://t.co/mwSrRQlsRa"
+              }
+            ]
+          }
+        },
+        "id": "1734982674593501189",
+        "location": "地狱",
+        "name": "gexry",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875742782511304704/vHy_WszN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 63,
+          "like_count": 391,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 170
+        },
+        "url": "https://t.co/mwSrRQlsRa",
+        "username": "gexry23454",
+        "verified": false
+      }
+    ]
+  }
+}

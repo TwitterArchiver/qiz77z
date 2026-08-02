@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2081723727369158945",
+    "created_at": "2026-07-27T13:10:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T14:10:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081728908563812843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1796547757156798464",
+          "start": 0,
+          "username": "z8073359881239"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081728908563812843",
+    "in_reply_to_user_id": "1796547757156798464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081723727369158945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@z8073359881239 买个小房子。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2081723727369158945",
+        "created_at": "2026-07-27T13:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T14:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081728908563812843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1796547757156798464",
+              "start": 0,
+              "username": "z8073359881239"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081728908563812843",
+        "in_reply_to_user_id": "1796547757156798464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081723727369158945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@z8073359881239 买个小房子。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796547757156798464",
+        "conversation_id": "2081723727369158945",
+        "created_at": "2026-07-27T12:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T13:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081723727369158945"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081723727369158945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "过生日管家长要什么好，家长想给我买手机，我有点不想要，中产偏上的家庭，车等驾照下来会买，大家能不能给点推荐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "NG",
+              "full_name": "Obolo-Eke (1), Enugu State, Nigeria",
+              "geo": {
+                "coordinates": [
+                  7.63333,
+                  6.88333
+                ],
+                "type": "Point"
+              },
+              "locality": "Obolo-Eke (1)",
+              "region": "Enugu State"
+            }
+          ]
+        },
+        "description": "祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "1",
+        "name": "饺子大王",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069400150402121729/-WWeHiuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 90,
+          "like_count": 2630,
+          "listed_count": 2,
+          "media_count": 125,
+          "tweet_count": 1480
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-31T14:22:26.000Z",
+        "description": "08 1/4i （小老鼠在辽宁沈阳）（老鼠是男孩子）哥哥 @77Sariel0901",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "77Sariel0901"
+              }
+            ]
+          }
+        },
+        "id": "1796547757156798464",
+        "location": "螺蛳粉星系",
+        "name": "白灼老鼠",
+        "pinned_tweet_id": "1949608845799821708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004058734126153728/MfPqTDfG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 211,
+          "like_count": 1718,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1050
+        },
+        "url": "",
+        "username": "z8073359881239",
+        "verified": false
+      }
+    ]
+  }
+}

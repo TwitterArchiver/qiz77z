@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058184784615178240"
+      ]
+    },
+    "author_id": "1878799432956702720",
+    "conversation_id": "2058184798028583315",
+    "created_at": "2026-05-23T13:54:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T14:54:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058184798028583315"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vgs8sh9wiq",
+          "end": 28,
+          "expanded_url": "https://x.com/qiz77z/status/2058184798028583315/photo/1",
+          "media_key": "3_2058184784615178240",
+          "start": 5,
+          "url": "https://t.co/vgs8sh9wiq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058184798028583315",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "来吧走起 https://t.co/vgs8sh9wiq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1105,
+        "media_key": "3_2058184784615178240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJAkKCkaAAAhk5w.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058184784615178240"
+          ]
+        },
+        "author_id": "1878799432956702720",
+        "conversation_id": "2058184798028583315",
+        "created_at": "2026-05-23T13:54:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T14:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058184798028583315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vgs8sh9wiq",
+              "end": 28,
+              "expanded_url": "https://x.com/qiz77z/status/2058184798028583315/photo/1",
+              "media_key": "3_2058184784615178240",
+              "start": 5,
+              "url": "https://t.co/vgs8sh9wiq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058184798028583315",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来吧走起 https://t.co/vgs8sh9wiq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信 匿名看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055314944363773952/lqU0-_2z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 89,
+          "like_count": 2274,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1355
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      }
+    ]
+  }
+}

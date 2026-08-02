@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2077951434612773171",
+    "created_at": "2026-07-19T03:25:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T04:25:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078682673946751266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1631669240280252417",
+          "start": 0,
+          "username": "y67509130"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078682673946751266",
+    "in_reply_to_user_id": "1631669240280252417",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078549390919352739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y67509130 ？牛逼牛逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2077951434612773171",
+        "created_at": "2026-07-19T03:25:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T04:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078682673946751266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1631669240280252417",
+              "start": 0,
+              "username": "y67509130"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078682673946751266",
+        "in_reply_to_user_id": "1631669240280252417",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078549390919352739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y67509130 ？牛逼牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1631669240280252417",
+        "conversation_id": "2077951434612773171",
+        "created_at": "2026-07-18T18:36:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T19:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078549390919352739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1878799432956702720",
+              "start": 0,
+              "username": "qiz77z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078549390919352739",
+        "in_reply_to_user_id": "1878799432956702720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077951434612773171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiz77z 我拉出来了😏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "饺子大王",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069400150402121729/-WWeHiuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 88,
+          "like_count": 2514,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 1398
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-03T14:54:04.000Z",
+        "description": "欢迎你来到土豆大玉的主页，恭喜你中大奖了，奖品是背景的几颗土豆\n土豆什么都听，大到古典、爵士，小到极端、噪音、先锋、实验啥的都听\n我是男的\n🚪1元不入不上当🤫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuyuyu60785",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuyuyu60785",
+                "start": 0,
+                "url": "https://t.co/dGwNlSjDY6"
+              }
+            ]
+          }
+        },
+        "id": "1631669240280252417",
+        "location": "绿色有机蔬菜园",
+        "name": "终极雷霆钢铁焚天虚境天穹幻灭裂核星渊裁决死寂破败泯灭永痕爆裂究极宇宙无敌超级惊天邪恶土豆大王降临世间",
+        "pinned_tweet_id": "2035303853130961031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945191457914015744/79iXGSLo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 124,
+          "like_count": 354,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 316
+        },
+        "url": "https://t.co/dGwNlSjDY6",
+        "username": "y67509130",
+        "verified": false
+      }
+    ]
+  }
+}

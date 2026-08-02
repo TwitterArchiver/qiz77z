@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2051284014393442670",
+    "created_at": "2026-05-05T03:28:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T04:28:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051504357632627191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1865933718571098112",
+          "start": 0,
+          "username": "vggg848027"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051504357632627191",
+    "in_reply_to_user_id": "1865933718571098112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051372293637709930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vggg848027 第几回合呀 我觉得打的还可以呀。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2051284014393442670",
+        "created_at": "2026-05-05T03:28:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T04:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051504357632627191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1865933718571098112",
+              "start": 0,
+              "username": "vggg848027"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051504357632627191",
+        "in_reply_to_user_id": "1865933718571098112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051372293637709930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vggg848027 第几回合呀 我觉得打的还可以呀。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865933718571098112",
+        "conversation_id": "2051284014393442670",
+        "created_at": "2026-05-04T18:44:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T19:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051372293637709930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1878799432956702720",
+              "start": 0,
+              "username": "qiz77z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051372293637709930",
+        "in_reply_to_user_id": "1878799432956702720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051284014393442670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiz77z edg打的什么呀第三把一枪开不出"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050060286355554304/yYay5Spf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 87,
+          "like_count": 2296,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 1282
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-09T01:37:35.000Z",
+        "description": "男，有没有和我玩瓦的",
+        "id": "1865933718571098112",
+        "location": "Hong Kong",
+        "name": "vg gg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891131077550579713/8kWHQ7Bd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 30,
+          "like_count": 529,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 970
+        },
+        "username": "vggg848027",
+        "verified": false
+      }
+    ]
+  }
+}

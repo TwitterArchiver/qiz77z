@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2052597247171494104",
+    "created_at": "2026-05-09T14:06:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T15:06:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053114338509287636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2022333264594448385",
+          "start": 0,
+          "username": "ji_mi15046"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053114338509287636",
+    "in_reply_to_user_id": "2022333264594448385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053109898100252692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ji_mi15046 我说真的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2052597247171494104",
+        "created_at": "2026-05-09T14:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T15:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053114338509287636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2022333264594448385",
+              "start": 0,
+              "username": "ji_mi15046"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053114338509287636",
+        "in_reply_to_user_id": "2022333264594448385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053109898100252692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji_mi15046 我说真的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022333264594448385",
+        "conversation_id": "2052597247171494104",
+        "created_at": "2026-05-09T13:48:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T14:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053109898100252692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1878799432956702720",
+              "start": 0,
+              "username": "qiz77z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053109898100252692",
+        "in_reply_to_user_id": "1878799432956702720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053078522642702827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiz77z 真的吗那我要开始反复练了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050060286355554304/yYay5Spf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 89,
+          "like_count": 2306,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 1301
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T15:33:29.000Z",
+        "description": "男｜推上分享健身日常和大学生活｜是绿推 ｜如果喜欢我也可以投喂一点 鸟要攒钱买最好的鱼油",
+        "id": "2022333264594448385",
+        "location": "记得天天开心 偶尔来看看鸟",
+        "name": "迷途鸟",
+        "pinned_tweet_id": "2049674047978643701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039639144532758528/FkAft8Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 68,
+          "like_count": 1207,
+          "listed_count": 2,
+          "media_count": 32,
+          "tweet_count": 859
+        },
+        "username": "ji_mi15046",
+        "verified": false
+      }
+    ]
+  }
+}

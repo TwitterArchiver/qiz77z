@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2074298991765053786",
+    "created_at": "2026-07-07T15:41:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T16:41:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074519222970126435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2049645078327537665",
+          "start": 0,
+          "username": "antonetti30220"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074519222970126435",
+    "in_reply_to_user_id": "2049645078327537665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074298991765053786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@antonetti30220 我好像也有这个私信啊啊啊啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1568,
+        "media_key": "3_2074298978351656960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMlj7kKbMAA6c59.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2074298991765053786",
+        "created_at": "2026-07-07T15:41:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T16:41:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074519222970126435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2049645078327537665",
+              "start": 0,
+              "username": "antonetti30220"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074519222970126435",
+        "in_reply_to_user_id": "2049645078327537665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074298991765053786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@antonetti30220 我好像也有这个私信啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074298978351656960"
+          ]
+        },
+        "author_id": "2049645078327537665",
+        "conversation_id": "2074298991765053786",
+        "created_at": "2026-07-07T01:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T02:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074298991765053786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ErdTq2h6UW",
+              "end": 39,
+              "expanded_url": "https://x.com/antonetti30220/status/2074298991765053786/photo/1",
+              "media_key": "3_2074298978351656960",
+              "start": 16,
+              "url": "https://t.co/ErdTq2h6UW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074298991765053786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 26850,
+          "like_count": 231,
+          "quote_count": 0,
+          "reply_count": 48,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这回我是真没词儿了 你看着办吧 https://t.co/ErdTq2h6UW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信 匿名看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "饺子大王zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069400150402121729/-WWeHiuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 84,
+          "like_count": 2498,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 1345
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-30T00:20:47.000Z",
+        "description": "`_____我主号 @alderton471",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "alderton471"
+              }
+            ]
+          }
+        },
+        "id": "2049645078327537665",
+        "location": "Haiti",
+        "name": "小鹿爱健身",
+        "pinned_tweet_id": "2070301977888862489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058603806112571393/YLwLMLuy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 969,
+          "following_count": 35,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 96
+        },
+        "url": "",
+        "username": "antonetti30220",
+        "verified": false
+      }
+    ]
+  }
+}

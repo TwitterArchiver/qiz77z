@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2050610743964570034",
+    "created_at": "2026-05-02T16:23:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T17:23:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050612110837871071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1765019304771325952",
+          "start": 0,
+          "username": "bushimianya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050612110837871071",
+    "in_reply_to_user_id": "1765019304771325952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050610743964570034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bushimianya 买啥相机。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2050610743964570034",
+        "created_at": "2026-05-02T16:23:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T17:23:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050612110837871071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1765019304771325952",
+              "start": 0,
+              "username": "bushimianya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050612110837871071",
+        "in_reply_to_user_id": "1765019304771325952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050610743964570034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bushimianya 买啥相机。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765019304771325952",
+        "conversation_id": "2050610743964570034",
+        "created_at": "2026-05-02T16:17:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T17:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050610743964570034"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050610743964570034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉我会刻滑了🤔，是先换板还是先买相机呢👿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050060286355554304/yYay5Spf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 89,
+          "like_count": 2251,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 1250
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T14:19:42.000Z",
+        "description": "无聊想死的一个人        希望你开心     别忘了自己",
+        "id": "1765019304771325952",
+        "name": "sth",
+        "pinned_tweet_id": "1784833954153189525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033223508688543744/DkCoFlLu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 105,
+          "like_count": 28392,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 2829
+        },
+        "username": "bushimianya",
+        "verified": false
+      }
+    ]
+  }
+}

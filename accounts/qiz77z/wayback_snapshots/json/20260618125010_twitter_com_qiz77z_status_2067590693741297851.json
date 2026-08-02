@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067590615156883456"
+      ]
+    },
+    "author_id": "1878799432956702720",
+    "conversation_id": "2067549418392625598",
+    "created_at": "2026-06-18T12:50:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T13:50:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067590693741297851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1385592677492686991",
+          "start": 0,
+          "username": "Ykawsog"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TbSdoYFFEm",
+          "end": 50,
+          "expanded_url": "https://x.com/qiz77z/status/2067590693741297851/photo/1",
+          "media_key": "3_2067590615156883456",
+          "start": 27,
+          "url": "https://t.co/TbSdoYFFEm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067590693741297851",
+    "in_reply_to_user_id": "1385592677492686991",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067589743312019630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ykawsog 那就行。我买完票的时候看都老绝望了 https://t.co/TbSdoYFFEm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2736,
+        "media_key": "3_2067590615156883456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGOtb1bgAA4l00.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067590615156883456"
+          ]
+        },
+        "author_id": "1878799432956702720",
+        "conversation_id": "2067549418392625598",
+        "created_at": "2026-06-18T12:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067590693741297851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1385592677492686991",
+              "start": 0,
+              "username": "Ykawsog"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TbSdoYFFEm",
+              "end": 50,
+              "expanded_url": "https://x.com/qiz77z/status/2067590693741297851/photo/1",
+              "media_key": "3_2067590615156883456",
+              "start": 27,
+              "url": "https://t.co/TbSdoYFFEm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067590693741297851",
+        "in_reply_to_user_id": "1385592677492686991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067589743312019630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ykawsog 那就行。我买完票的时候看都老绝望了 https://t.co/TbSdoYFFEm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1385592677492686991",
+        "conversation_id": "2067549418392625598",
+        "created_at": "2026-06-18T12:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067589743312019630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1878799432956702720",
+              "start": 0,
+              "username": "qiz77z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067589743312019630",
+        "in_reply_to_user_id": "1878799432956702720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067589241815884115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiz77z 从天气预报来看 目前下周局势一片良好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信 匿名看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055314944363773952/lqU0-_2z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 88,
+          "like_count": 2403,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1407
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-23T13:53:37.000Z",
+        "description": "别不幸福",
+        "id": "1385592677492686991",
+        "name": "下雪",
+        "pinned_tweet_id": "1951076712676282699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067559957793579008/bdsQk20r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 3008,
+          "like_count": 13186,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 11022
+        },
+        "url": "",
+        "username": "Ykawsog",
+        "verified": false
+      }
+    ]
+  }
+}

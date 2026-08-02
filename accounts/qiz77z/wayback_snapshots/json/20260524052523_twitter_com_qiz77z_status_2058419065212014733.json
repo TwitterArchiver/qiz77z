@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2058413783190819195",
+    "created_at": "2026-05-24T05:25:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T06:25:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058419065212014733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2022333264594448385",
+          "start": 0,
+          "username": "ji_mi15046"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058419065212014733",
+    "in_reply_to_user_id": "2022333264594448385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058413783190819195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ji_mi15046 牛大了也是一种夸奖。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1638,
+        "media_key": "3_2058413774684712960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJD0bBDacAASZkT.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2058413783190819195",
+        "created_at": "2026-05-24T05:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T06:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058419065212014733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2022333264594448385",
+              "start": 0,
+              "username": "ji_mi15046"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058419065212014733",
+        "in_reply_to_user_id": "2022333264594448385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058413783190819195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji_mi15046 牛大了也是一种夸奖。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058413774684712960"
+          ]
+        },
+        "author_id": "2022333264594448385",
+        "conversation_id": "2058413783190819195",
+        "created_at": "2026-05-24T05:04:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T06:04:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058413783190819195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wE1mzQTB67",
+              "end": 29,
+              "expanded_url": "https://x.com/ji_mi15046/status/2058413783190819195/photo/1",
+              "media_key": "3_2058413774684712960",
+              "start": 6,
+              "url": "https://t.co/wE1mzQTB67"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058413783190819195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本来就烦😇 https://t.co/wE1mzQTB67"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信 匿名看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055314944363773952/lqU0-_2z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 89,
+          "like_count": 2281,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1369
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T15:33:29.000Z",
+        "description": "男｜推上分享健身日常和大学生活｜是绿推 ｜如果喜欢我也可以投喂一点 鸟要攒钱买最好的鱼油",
+        "id": "2022333264594448385",
+        "location": "记得天天开心 偶尔来看看鸟",
+        "name": "迷途鸟",
+        "pinned_tweet_id": "2054746433967026208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039639144532758528/FkAft8Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 72,
+          "like_count": 1413,
+          "listed_count": 2,
+          "media_count": 35,
+          "tweet_count": 930
+        },
+        "username": "ji_mi15046",
+        "verified": false
+      }
+    ]
+  }
+}

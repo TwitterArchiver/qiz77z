@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069280455137136640"
+      ]
+    },
+    "author_id": "1878799432956702720",
+    "conversation_id": "2069097006996582789",
+    "created_at": "2026-06-23T04:44:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T05:44:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069280457771143563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2022333264594448385",
+          "start": 0,
+          "username": "ji_mi15046"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XYhBK0xQHp",
+          "end": 57,
+          "expanded_url": "https://x.com/qiz77z/status/2069280457771143563/photo/1",
+          "media_key": "3_2069280455137136640",
+          "start": 34,
+          "url": "https://t.co/XYhBK0xQHp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069280457771143563",
+    "in_reply_to_user_id": "2022333264594448385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069097006996582789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ji_mi15046 哎呀我不行了 刚开vpn一个这个笑得我不行 https://t.co/XYhBK0xQHp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 471,
+        "media_key": "3_2069280455137136640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLePnEUbkAAJZrC.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069280455137136640"
+          ]
+        },
+        "author_id": "1878799432956702720",
+        "conversation_id": "2069097006996582789",
+        "created_at": "2026-06-23T04:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T05:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069280457771143563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2022333264594448385",
+              "start": 0,
+              "username": "ji_mi15046"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XYhBK0xQHp",
+              "end": 57,
+              "expanded_url": "https://x.com/qiz77z/status/2069280457771143563/photo/1",
+              "media_key": "3_2069280455137136640",
+              "start": 34,
+              "url": "https://t.co/XYhBK0xQHp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069280457771143563",
+        "in_reply_to_user_id": "2022333264594448385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069097006996582789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji_mi15046 哎呀我不行了 刚开vpn一个这个笑得我不行 https://t.co/XYhBK0xQHp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022333264594448385",
+        "conversation_id": "2069097006996582789",
+        "created_at": "2026-06-22T16:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T17:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069097006996582789"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069097006996582789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 457,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎我要当大胸男人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信 匿名看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055314944363773952/lqU0-_2z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 89,
+          "like_count": 2430,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 1296
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T15:33:29.000Z",
+        "description": "男｜推上分享健身日常和大学生活｜是绿推 ｜如果喜欢我也可以投喂一点 鸟健身吃饭费钱",
+        "id": "2022333264594448385",
+        "location": "记得天天开心 偶尔来看看鸟",
+        "name": "迷途鸟",
+        "pinned_tweet_id": "2068931478482989304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068310065053118464/jJpZBIeO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 91,
+          "like_count": 2276,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 1186
+        },
+        "url": "",
+        "username": "ji_mi15046",
+        "verified": false
+      }
+    ]
+  }
+}

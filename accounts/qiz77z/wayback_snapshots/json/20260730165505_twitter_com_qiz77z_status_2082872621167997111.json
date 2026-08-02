@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082872612125061121"
+      ]
+    },
+    "author_id": "1878799432956702720",
+    "conversation_id": "2082872621167997111",
+    "created_at": "2026-07-30T16:55:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T17:55:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082872621167997111"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/r4gVOobgLz",
+          "end": 73,
+          "expanded_url": "https://x.com/qiz77z/status/2082872621167997111/photo/1",
+          "media_key": "3_2082872612125061121",
+          "start": 50,
+          "url": "https://t.co/r4gVOobgLz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082872621167997111",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "唉我有一个打游戏认识的好感哥呀。他有好几次都有点吃醋了或者是暧昧。我感觉他就是钓着我呀。好那个呀。 https://t.co/r4gVOobgLz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2736,
+        "media_key": "3_2082872612125061121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfZmu4asAEKJK0.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082872612125061121"
+          ]
+        },
+        "author_id": "1878799432956702720",
+        "conversation_id": "2082872621167997111",
+        "created_at": "2026-07-30T16:55:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082872621167997111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r4gVOobgLz",
+              "end": 73,
+              "expanded_url": "https://x.com/qiz77z/status/2082872621167997111/photo/1",
+              "media_key": "3_2082872612125061121",
+              "start": 50,
+              "url": "https://t.co/r4gVOobgLz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082872621167997111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉我有一个打游戏认识的好感哥呀。他有好几次都有点吃醋了或者是暧昧。我感觉他就是钓着我呀。好那个呀。 https://t.co/r4gVOobgLz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "NG",
+              "full_name": "Obolo-Eke (1), Enugu State, Nigeria",
+              "geo": {
+                "coordinates": [
+                  7.63333,
+                  6.88333
+                ],
+                "type": "Point"
+              },
+              "locality": "Obolo-Eke (1)",
+              "region": "Enugu State"
+            }
+          ]
+        },
+        "description": "祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "1",
+        "name": "饺子大王",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069400150402121729/-WWeHiuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 87,
+          "like_count": 2665,
+          "listed_count": 2,
+          "media_count": 127,
+          "tweet_count": 1493
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      }
+    ]
+  }
+}

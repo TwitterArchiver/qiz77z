@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053432874704252928"
+      ]
+    },
+    "author_id": "1878799432956702720",
+    "conversation_id": "2053432907365261454",
+    "created_at": "2026-05-10T11:12:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T12:12:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053432907365261454"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DV9fPkPZlx",
+          "end": 36,
+          "expanded_url": "https://x.com/qiz77z/status/2053432907365261454/photo/1",
+          "media_key": "3_2053432874704252928",
+          "start": 13,
+          "url": "https://t.co/DV9fPkPZlx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053432907365261454",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我特么被这个广告要笑死了 https://t.co/DV9fPkPZlx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1095,
+        "media_key": "3_2053432874704252928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9CUerbMAAddwJ.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053432874704252928"
+          ]
+        },
+        "author_id": "1878799432956702720",
+        "conversation_id": "2053432907365261454",
+        "created_at": "2026-05-10T11:12:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T12:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053432907365261454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DV9fPkPZlx",
+              "end": 36,
+              "expanded_url": "https://x.com/qiz77z/status/2053432907365261454/photo/1",
+              "media_key": "3_2053432874704252928",
+              "start": 13,
+              "url": "https://t.co/DV9fPkPZlx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053432907365261454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我特么被这个广告要笑死了 https://t.co/DV9fPkPZlx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050060286355554304/yYay5Spf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 89,
+          "like_count": 2315,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 1307
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      }
+    ]
+  }
+}

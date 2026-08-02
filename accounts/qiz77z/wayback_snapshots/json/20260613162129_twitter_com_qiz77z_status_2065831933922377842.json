@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2065815939879457157",
+    "created_at": "2026-06-13T16:21:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T17:21:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065831933922377842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2022333264594448385",
+          "start": 0,
+          "username": "ji_mi15046"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065831933922377842",
+    "in_reply_to_user_id": "2022333264594448385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065830373339394467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ji_mi15046 看得我好激动"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2065815939879457157",
+        "created_at": "2026-06-13T16:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T17:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065831933922377842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2022333264594448385",
+              "start": 0,
+              "username": "ji_mi15046"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065831933922377842",
+        "in_reply_to_user_id": "2022333264594448385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065830373339394467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji_mi15046 看得我好激动"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022333264594448385",
+        "conversation_id": "2065815939879457157",
+        "created_at": "2026-06-13T16:15:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T17:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065830373339394467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1878799432956702720",
+              "start": 0,
+              "username": "qiz77z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065830373339394467",
+        "in_reply_to_user_id": "1878799432956702720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065826760839799017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiz77z 加油kk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信 匿名看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055314944363773952/lqU0-_2z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 87,
+          "like_count": 2377,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 1398
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T15:33:29.000Z",
+        "description": "男｜推上分享健身日常和大学生活｜是绿推 ｜如果喜欢我也可以投喂一点 鸟健身吃饭费钱",
+        "id": "2022333264594448385",
+        "location": "记得天天开心 偶尔来看看鸟",
+        "name": "迷途鸟",
+        "pinned_tweet_id": "2063455461916147912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039639144532758528/FkAft8Iq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 909,
+          "following_count": 81,
+          "like_count": 1721,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 994
+        },
+        "username": "ji_mi15046",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073775904736866304"
+      ]
+    },
+    "author_id": "1878799432956702720",
+    "conversation_id": "2073775907920355794",
+    "created_at": "2026-07-05T14:27:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T15:27:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073775907920355794"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Vq7PdXfJgh",
+          "end": 26,
+          "expanded_url": "https://x.com/qiz77z/status/2073775907920355794/photo/1",
+          "media_key": "3_2073775904736866304",
+          "start": 3,
+          "url": "https://t.co/Vq7PdXfJgh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073775907920355794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "宝贝 https://t.co/Vq7PdXfJgh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073775904736866304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMeIMrGa8AAZw_1.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073775904736866304"
+          ]
+        },
+        "author_id": "1878799432956702720",
+        "conversation_id": "2073775907920355794",
+        "created_at": "2026-07-05T14:27:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:27:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073775907920355794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vq7PdXfJgh",
+              "end": 26,
+              "expanded_url": "https://x.com/qiz77z/status/2073775907920355794/photo/1",
+              "media_key": "3_2073775904736866304",
+              "start": 3,
+              "url": "https://t.co/Vq7PdXfJgh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073775907920355794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宝贝 https://t.co/Vq7PdXfJgh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信 匿名看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "饺子大王zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069400150402121729/-WWeHiuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 88,
+          "like_count": 2468,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 1327
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      }
+    ]
+  }
+}

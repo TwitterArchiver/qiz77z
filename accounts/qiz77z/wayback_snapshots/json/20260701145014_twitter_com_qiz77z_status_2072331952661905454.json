@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2071565281504452995",
+    "created_at": "2026-07-01T14:50:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T15:50:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072331952661905454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1558541027450839040",
+          "start": 0,
+          "username": "sfPeterPan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072331952661905454",
+    "in_reply_to_user_id": "1558541027450839040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071565281504452995",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sfPeterPan 我去。54圈。看见这个想起来小时候学游泳。教练让我游五十圈的噩梦了……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071565256439308288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-toAcbIAAwgJO.jpg",
+        "width": 985
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2071565281504452995",
+        "created_at": "2026-07-01T14:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T15:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072331952661905454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1558541027450839040",
+              "start": 0,
+              "username": "sfPeterPan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072331952661905454",
+        "in_reply_to_user_id": "1558541027450839040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071565281504452995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sfPeterPan 我去。54圈。看见这个想起来小时候学游泳。教练让我游五十圈的噩梦了……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071565256439308288"
+          ]
+        },
+        "author_id": "1558541027450839040",
+        "conversation_id": "2071565281504452995",
+        "created_at": "2026-06-29T12:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T13:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071565281504452995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oiDVjTvPmw",
+              "end": 70,
+              "expanded_url": "https://x.com/sfPeterPan/status/2071565281504452995/photo/1",
+              "media_key": "3_2071565256439308288",
+              "start": 47,
+              "url": "https://t.co/oiDVjTvPmw"
+            },
+            {
+              "display_url": "x.com/sfpeterpan/sta…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/sfpeterpan/status/1952357732675113138",
+              "start": 71,
+              "url": "https://t.co/FYTgLrFynZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071565281504452995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1932,
+          "like_count": 39,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952357732675113138",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嘻嘻嘿嘿终于游上了，十几年不下水原来我还会游啊\nps:教练比我还小，有点 尴尬（）\n👉🏻👈🏻 https://t.co/oiDVjTvPmw https://t.co/FYTgLrFynZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信 匿名看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "饺子大王zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069400150402121729/-WWeHiuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 87,
+          "like_count": 2457,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 1321
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-13T19:49:07.000Z",
+        "description": "你好呀，欢迎进入小熊的世界。（🚪请敲门 随缘）|【自用🪜：https://t.co/rXf7cKvLe2】/互关请进：@kidultPP😉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 59,
+                "username": "kidultPP"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "us5.av8dcloud.top/#/register?cod…",
+                "end": 52,
+                "expanded_url": "https://us5.av8dcloud.top/#/register?code=kkA9j3Qy",
+                "start": 29,
+                "url": "https://t.co/rXf7cKvLe2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "小小熊要加油啊.com",
+                "end": 23,
+                "expanded_url": "http://xn--yfrw5dr2ia544sltg9l9b.com",
+                "start": 0,
+                "url": "https://t.co/gPaV7kD2y3"
+              }
+            ]
+          }
+        },
+        "id": "1558541027450839040",
+        "location": "寻梦的路上（钱多多的来🤤🤲🏻）",
+        "name": "Peter Pan",
+        "pinned_tweet_id": "1879205338345594897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004571942712684545/saBk3grR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4308,
+          "following_count": 1177,
+          "like_count": 519843,
+          "listed_count": 52,
+          "media_count": 4587,
+          "tweet_count": 82936
+        },
+        "url": "https://t.co/gPaV7kD2y3",
+        "username": "sfPeterPan",
+        "verified": false
+      }
+    ]
+  }
+}

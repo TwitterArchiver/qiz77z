@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2052625693176156203",
+    "created_at": "2026-05-09T14:09:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T15:09:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053115177856586183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1409564127916224512",
+          "start": 0,
+          "username": "VgWgypKER24wJEX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053115177856586183",
+    "in_reply_to_user_id": "1409564127916224512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052625693176156203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VgWgypKER24wJEX 这期真有我。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1315,
+        "media_key": "3_2052625667230195712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHxkK0ga4AAhXbY.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2052625693176156203",
+        "created_at": "2026-05-09T14:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T15:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053115177856586183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1409564127916224512",
+              "start": 0,
+              "username": "VgWgypKER24wJEX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053115177856586183",
+        "in_reply_to_user_id": "1409564127916224512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052625693176156203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VgWgypKER24wJEX 这期真有我。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052625667230195712"
+          ]
+        },
+        "author_id": "1409564127916224512",
+        "conversation_id": "2052625693176156203",
+        "created_at": "2026-05-08T05:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T06:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052625693176156203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uDmekW7gu3",
+              "end": 28,
+              "expanded_url": "https://x.com/VgWgypKER24wJEX/status/2052625693176156203/photo/1",
+              "media_key": "3_2052625667230195712",
+              "start": 5,
+              "url": "https://t.co/uDmekW7gu3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052625693176156203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1954,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在干嘛呀 https://t.co/uDmekW7gu3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050060286355554304/yYay5Spf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 89,
+          "like_count": 2308,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 1303
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T17:27:45.000Z",
+        "description": "万达广场附近抽象爱做饭厨子🧑‍🍳｜平时写点什么关于爱与生活的！#谈谈 提问箱📩https://t.co/V22SZQXdgV",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 31,
+                "tag": "谈谈"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aidou68117",
+                "end": 62,
+                "expanded_url": "https://ngl.link/aidou68117",
+                "start": 39,
+                "url": "https://t.co/V22SZQXdgV"
+              }
+            ]
+          }
+        },
+        "id": "1409564127916224512",
+        "location": "距离800m",
+        "name": "Aiduo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956171892169302017/ktOwPGje_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1792,
+          "following_count": 3644,
+          "like_count": 102360,
+          "listed_count": 2,
+          "media_count": 319,
+          "tweet_count": 5215
+        },
+        "username": "VgWgypKER24wJEX",
+        "verified": false
+      }
+    ]
+  }
+}

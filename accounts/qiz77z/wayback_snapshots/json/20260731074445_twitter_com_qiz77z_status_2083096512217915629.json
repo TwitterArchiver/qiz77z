@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2082872621167997111",
+    "created_at": "2026-07-31T07:44:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T08:44:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083096512217915629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1746252884558434304",
+          "start": 0,
+          "username": "rikka7197969823"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083096512217915629",
+    "in_reply_to_user_id": "1746252884558434304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083085151576457452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rikka7197969823 所以我说他吊着呢。我不找他他只会偶尔找我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2082872621167997111",
+        "created_at": "2026-07-31T07:44:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T08:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083096512217915629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1746252884558434304",
+              "start": 0,
+              "username": "rikka7197969823"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083096512217915629",
+        "in_reply_to_user_id": "1746252884558434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083085151576457452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rikka7197969823 所以我说他吊着呢。我不找他他只会偶尔找我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746252884558434304",
+        "conversation_id": "2082872621167997111",
+        "created_at": "2026-07-31T06:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T07:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083085151576457452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1878799432956702720",
+              "start": 0,
+              "username": "qiz77z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083085151576457452",
+        "in_reply_to_user_id": "1878799432956702720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083039438368882741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiz77z 不应该是一直聊天吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "NG",
+              "full_name": "Obolo-Eke (1), Enugu State, Nigeria",
+              "geo": {
+                "coordinates": [
+                  7.63333,
+                  6.88333
+                ],
+                "type": "Point"
+              },
+              "locality": "Obolo-Eke (1)",
+              "region": "Enugu State"
+            }
+          ]
+        },
+        "description": "祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "1",
+        "name": "饺子大王",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069400150402121729/-WWeHiuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 85,
+          "like_count": 2665,
+          "listed_count": 2,
+          "media_count": 127,
+          "tweet_count": 1496
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-13T19:28:39.000Z",
+        "description": "",
+        "id": "1746252884558434304",
+        "name": "snow",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075229492063383552/4UXZm2pq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 46,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 48
+        },
+        "url": "",
+        "username": "rikka7197969823",
+        "verified": false
+      }
+    ]
+  }
+}

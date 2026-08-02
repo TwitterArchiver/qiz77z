@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2055962904135131320",
+    "created_at": "2026-05-17T15:53:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T16:53:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056040412658479293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1765019304771325952",
+          "start": 0,
+          "username": "bushimianya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056040412658479293",
+    "in_reply_to_user_id": "1765019304771325952",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055969719581303213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bushimianya 🈚。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2055962904135131320",
+        "created_at": "2026-05-17T15:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T16:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056040412658479293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1765019304771325952",
+              "start": 0,
+              "username": "bushimianya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056040412658479293",
+        "in_reply_to_user_id": "1765019304771325952",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055969719581303213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bushimianya 🈚。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765019304771325952",
+        "conversation_id": "2055962904135131320",
+        "created_at": "2026-05-17T11:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T12:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055969719581303213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1878799432956702720",
+              "start": 0,
+              "username": "qiz77z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055969719581303213",
+        "in_reply_to_user_id": "1878799432956702720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055962904135131320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiz77z 老公在哪？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信 匿名看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055314944363773952/lqU0-_2z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 90,
+          "like_count": 2325,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 1340
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T14:19:42.000Z",
+        "description": "无聊想死的一个人        希望你开心     别忘了自己",
+        "id": "1765019304771325952",
+        "name": "sth",
+        "pinned_tweet_id": "1784833954153189525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033223508688543744/DkCoFlLu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 113,
+          "like_count": 28804,
+          "listed_count": 2,
+          "media_count": 0,
+          "tweet_count": 2837
+        },
+        "username": "bushimianya",
+        "verified": false
+      }
+    ]
+  }
+}

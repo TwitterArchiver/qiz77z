@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2075246291903459545",
+    "created_at": "2026-07-10T01:31:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T02:31:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075392474324115671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2022333264594448385",
+          "start": 0,
+          "username": "ji_mi15046"
+        },
+        {
+          "end": 23,
+          "id": "1987561311438610432",
+          "start": 12,
+          "username": "xrwi238646"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075392474324115671",
+    "in_reply_to_user_id": "2022333264594448385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075374551454847249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ji_mi15046 @xrwi238646 你不会的🫰🫰🫰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2075246291903459545",
+        "created_at": "2026-07-10T01:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T02:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075392474324115671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2022333264594448385",
+              "start": 0,
+              "username": "ji_mi15046"
+            },
+            {
+              "end": 23,
+              "id": "1987561311438610432",
+              "start": 12,
+              "username": "xrwi238646"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075392474324115671",
+        "in_reply_to_user_id": "2022333264594448385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075374551454847249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji_mi15046 @xrwi238646 你不会的🫰🫰🫰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022333264594448385",
+        "conversation_id": "2075246291903459545",
+        "created_at": "2026-07-10T00:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T01:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075374551454847249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1878799432956702720",
+              "start": 0,
+              "username": "qiz77z"
+            },
+            {
+              "end": 19,
+              "id": "1987561311438610432",
+              "start": 8,
+              "username": "xrwi238646"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075374551454847249",
+        "in_reply_to_user_id": "1878799432956702720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075246291903459545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiz77z @xrwi238646 希望我变成猪了没有人这么虐待我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信 匿名看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "饺子大王zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069400150402121729/-WWeHiuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 83,
+          "like_count": 2515,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 1355
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T15:33:29.000Z",
+        "description": "｜哦哦只是一只爱健身的小老鼠！哦哦。谢谢\n｜我姐姐@sansan_9_7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "sansan_9_7"
+              }
+            ]
+          }
+        },
+        "id": "2022333264594448385",
+        "location": "记得天天开心 偶尔来看看鸟",
+        "name": "迷途鸟",
+        "pinned_tweet_id": "2068931478482989304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075042441598750720/sroFwdlV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1579,
+          "following_count": 107,
+          "like_count": 2878,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 1303
+        },
+        "url": "",
+        "username": "ji_mi15046",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-09T16:42:13.000Z",
+        "description": "06｜男的｜不定时上线。｜欢迎互fo（请私信）｜互fo会查主页成分。｜很多废话吵到你们报意丝。｜不是男同😡\n176 目前64.7kg，健身中……（仅拍照记录）\n低精力小猪。 小小猪：@yzovoc7（小号不回fo）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 91,
+                "username": "yzovoc7"
+              }
+            ]
+          }
+        },
+        "id": "1987561311438610432",
+        "location": "0.1km",
+        "name": "装忧郁蹲在地上被狗认为是在出餐",
+        "pinned_tweet_id": "2061397921841791468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046234866090721280/Xsbi1Oxr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 233,
+          "like_count": 5696,
+          "listed_count": 3,
+          "media_count": 152,
+          "tweet_count": 2552
+        },
+        "url": "",
+        "username": "xrwi238646",
+        "verified": false
+      }
+    ]
+  }
+}

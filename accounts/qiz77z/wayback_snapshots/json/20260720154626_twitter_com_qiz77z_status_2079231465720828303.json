@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2079231465720828303",
+    "created_at": "2026-07-20T15:46:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T16:46:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079231465720828303"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SherryJxpbp/st…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/SherryJxpbp/status/2079110281490542761",
+          "start": 55,
+          "url": "https://t.co/hmz0gxlV6k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079231465720828303",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079110281490542761",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "回避型 没关系 我引导你 情感漠视 没关系 我理解你 不爱我也没关系 我爱你 只要你留在我身边 我都心甘情愿 https://t.co/hmz0gxlV6k"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2079231465720828303",
+        "created_at": "2026-07-20T15:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T16:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079231465720828303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SherryJxpbp/st…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/SherryJxpbp/status/2079110281490542761",
+              "start": 55,
+              "url": "https://t.co/hmz0gxlV6k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079231465720828303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079110281490542761",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "回避型 没关系 我引导你 情感漠视 没关系 我理解你 不爱我也没关系 我爱你 只要你留在我身边 我都心甘情愿 https://t.co/hmz0gxlV6k"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879799070254096386",
+        "conversation_id": "2079110281490542761",
+        "created_at": "2026-07-20T07:44:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T08:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079110281490542761"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079110281490542761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 13246,
+          "like_count": 224,
+          "quote_count": 6,
+          "reply_count": 54,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "回避型 没关系 我引导你 情感漠视 没关系 我理解你 不爱我也没关系 我爱你 只要你留在我身边 我都心甘情愿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "饺子大王",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069400150402121729/-WWeHiuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 88,
+          "like_count": 2566,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 1423
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-16T07:53:30.000Z",
+        "description": "变身！小猫惡魔：☆…//★ 06 enfp 金牛 此号发的东西有点乱七八糟请见谅…互关可➕v \n防丢失小号：@Sherrysh2d \n记录一些🔞：@Sherryysig\n定期回复信箱——匿名信箱📬：https://t.co/09pzHIo5EO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "Sherrysh2d"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Sherryysig"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/sherryl25621",
+                "end": 122,
+                "expanded_url": "https://ngl.link/sherryl25621",
+                "start": 99,
+                "url": "https://t.co/09pzHIo5EO"
+              }
+            ]
+          }
+        },
+        "id": "1879799070254096386",
+        "location": "🚪纯绿88 🚪半绿188",
+        "name": "Sherry-J",
+        "pinned_tweet_id": "2064687600393466065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074071258590011392/mgyQIZMR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7856,
+          "following_count": 357,
+          "like_count": 5961,
+          "listed_count": 22,
+          "media_count": 355,
+          "tweet_count": 3875
+        },
+        "url": "",
+        "username": "SherryJxpbp",
+        "verified": false
+      }
+    ]
+  }
+}

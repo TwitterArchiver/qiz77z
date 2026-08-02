@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2074396304449626529",
+    "created_at": "2026-07-07T07:33:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T08:33:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074396304449626529"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AlbertKwongonl…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/AlbertKwongonly/status/2074373376198762572",
+          "start": 19,
+          "url": "https://t.co/rV5KebTpT4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074396304449626529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074373376198762572",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "nb现实中还有女朋友，这女友也挺惨呀 https://t.co/rV5KebTpT4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074373359014727682",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMmnlFubUAI2_zG.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074373360407257088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMmnlK6boAANh7C.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074373359023108096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMmnlFwbMAAV1rN.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2074396304449626529",
+        "created_at": "2026-07-07T07:33:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074396304449626529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AlbertKwongonl…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/AlbertKwongonly/status/2074373376198762572",
+              "start": 19,
+              "url": "https://t.co/rV5KebTpT4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074396304449626529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074373376198762572",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "nb现实中还有女朋友，这女友也挺惨呀 https://t.co/rV5KebTpT4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074373359014727682",
+            "3_2074373360407257088",
+            "3_2074373359023108096"
+          ]
+        },
+        "author_id": "942050710245359617",
+        "conversation_id": "2074373376198762572",
+        "created_at": "2026-07-07T06:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T07:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074373376198762572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MKIsO5Tq1v",
+              "end": 23,
+              "expanded_url": "https://x.com/AlbertKwongonly/status/2074373376198762572/photo/1",
+              "media_key": "3_2074373359014727682",
+              "start": 0,
+              "url": "https://t.co/MKIsO5Tq1v"
+            },
+            {
+              "display_url": "pic.x.com/MKIsO5Tq1v",
+              "end": 23,
+              "expanded_url": "https://x.com/AlbertKwongonly/status/2074373376198762572/photo/1",
+              "media_key": "3_2074373360407257088",
+              "start": 0,
+              "url": "https://t.co/MKIsO5Tq1v"
+            },
+            {
+              "display_url": "pic.x.com/MKIsO5Tq1v",
+              "end": 23,
+              "expanded_url": "https://x.com/AlbertKwongonly/status/2074373376198762572/photo/1",
+              "media_key": "3_2074373359023108096",
+              "start": 0,
+              "url": "https://t.co/MKIsO5Tq1v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074373376198762572",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 27821,
+          "like_count": 59,
+          "quote_count": 41,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/MKIsO5Tq1v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信 匿名看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "饺子大王zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069400150402121729/-WWeHiuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 86,
+          "like_count": 2492,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 1341
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-16T15:16:06.000Z",
+        "description": "女性向内容创作者 碎碎念 @Delay773\nQAQ 投稿https://t.co/zYWH4z9ich\n深A女性向大学官网 https://t.co/qi1ut6gMf4\n高潮地图https://t.co/uznpXcZOmS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "Delay773"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "qaqletters.com/u/a",
+                "end": 52,
+                "expanded_url": "https://qaqletters.com/u/a",
+                "start": 29,
+                "url": "https://t.co/zYWH4z9ich"
+              },
+              {
+                "display_url": "shenauniv.com",
+                "end": 86,
+                "expanded_url": "http://shenauniv.com",
+                "start": 63,
+                "url": "https://t.co/qi1ut6gMf4"
+              },
+              {
+                "display_url": "comingmap.com",
+                "end": 114,
+                "expanded_url": "https://comingmap.com",
+                "start": 91,
+                "url": "https://t.co/uznpXcZOmS"
+              }
+            ]
+          }
+        },
+        "id": "942050710245359617",
+        "location": "Achat调试中",
+        "name": "A",
+        "pinned_tweet_id": "2070111518239478090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034225146324795392/ioLzqlIC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97016,
+          "following_count": 15,
+          "like_count": 89,
+          "listed_count": 86,
+          "media_count": 102,
+          "tweet_count": 253
+        },
+        "url": "",
+        "username": "AlbertKwongonly",
+        "verified": true
+      }
+    ]
+  }
+}

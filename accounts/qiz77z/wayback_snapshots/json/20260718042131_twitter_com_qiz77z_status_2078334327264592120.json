@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2078189193134547145",
+    "created_at": "2026-07-18T04:21:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T05:21:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078334327264592120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1851249299373301760",
+          "start": 0,
+          "username": "zzzz28301666561"
+        },
+        {
+          "end": 28,
+          "id": "1805999677592268800",
+          "start": 17,
+          "username": "1needYumm_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078334327264592120",
+    "in_reply_to_user_id": "1851249299373301760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078291742537957884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzzz28301666561 @1needYumm_ 额恶语伤人心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2078189193134547145",
+        "created_at": "2026-07-18T04:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T05:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078334327264592120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1851249299373301760",
+              "start": 0,
+              "username": "zzzz28301666561"
+            },
+            {
+              "end": 28,
+              "id": "1805999677592268800",
+              "start": 17,
+              "username": "1needYumm_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078334327264592120",
+        "in_reply_to_user_id": "1851249299373301760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078291742537957884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzzz28301666561 @1needYumm_ 额恶语伤人心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851249299373301760",
+        "conversation_id": "2078189193134547145",
+        "created_at": "2026-07-18T01:32:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T02:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078291742537957884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1878799432956702720",
+              "start": 0,
+              "username": "qiz77z"
+            },
+            {
+              "end": 19,
+              "id": "1805999677592268800",
+              "start": 8,
+              "username": "1needYumm_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078291742537957884",
+        "in_reply_to_user_id": "1878799432956702720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078256494483828794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiz77z @1needYumm_ 你有病啊我要笑死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "饺子大王",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069400150402121729/-WWeHiuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 86,
+          "like_count": 2581,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 1386
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-29T13:07:05.000Z",
+        "description": "06 天蝎 INFP switch 普通人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/heisema0y1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/heisema0y1",
+                "start": 0,
+                "url": "https://t.co/Hk5Ygl4JAL"
+              }
+            ]
+          }
+        },
+        "id": "1851249299373301760",
+        "location": "兰州",
+        "name": "黑色毛衣",
+        "pinned_tweet_id": "2024102515348845010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998643253563002880/i1HjME_k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 190,
+          "like_count": 1937,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 63
+        },
+        "url": "https://t.co/Hk5Ygl4JAL",
+        "username": "zzzz28301666561",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-26T16:21:05.000Z",
+        "description": "此账号发表的所有言论，意在取悦自己，并通过文字或图片强制干预他人的思想，如果翻阅之后出现恶心不适等症状，恭喜你，你怀了我的孩子\n提问箱https://t.co/fYC1aewmUn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1needyumm_1",
+                "end": 90,
+                "expanded_url": "https://ngl.link/1needyumm_1",
+                "start": 67,
+                "url": "https://t.co/fYC1aewmUn"
+              }
+            ]
+          }
+        },
+        "id": "1805999677592268800",
+        "location": "不爱男不爱女只爱心肝和自己",
+        "name": "小众忧郁名字",
+        "pinned_tweet_id": "2075076509380088305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012722623994556417/WLf7KCL1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 36,
+          "like_count": 4501,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 1391
+        },
+        "url": "",
+        "username": "1needYumm_",
+        "verified": false
+      }
+    ]
+  }
+}

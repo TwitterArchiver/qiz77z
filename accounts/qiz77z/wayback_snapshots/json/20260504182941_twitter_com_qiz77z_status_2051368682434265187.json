@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2051360266827522208",
+    "created_at": "2026-05-04T18:29:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T19:29:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051368682434265187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1817286603787948032",
+          "start": 0,
+          "username": "21Savage714"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051368682434265187",
+    "in_reply_to_user_id": "1817286603787948032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051360266827522208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@21Savage714 你咋了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2051360266827522208",
+        "created_at": "2026-05-04T18:29:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T19:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051368682434265187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1817286603787948032",
+              "start": 0,
+              "username": "21Savage714"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051368682434265187",
+        "in_reply_to_user_id": "1817286603787948032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051360266827522208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@21Savage714 你咋了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817286603787948032",
+        "conversation_id": "2051360266827522208",
+        "created_at": "2026-05-04T17:56:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T18:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051360266827522208"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051360266827522208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我似乎陷进了一场糟糕的感情关系中。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050060286355554304/yYay5Spf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 87,
+          "like_count": 2296,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 1281
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T19:51:13.000Z",
+        "description": "09 高中生巨蟹  infp  Khalil  21Savage Haruki Murakami  情绪垃圾桶\n        \n                                                                                我菠萝吹雪，吹的不是雪，是血",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/easonpang",
+                "end": 23,
+                "expanded_url": "https://ngl.link/easonpang",
+                "start": 0,
+                "url": "https://t.co/457myJQUE7"
+              }
+            ]
+          }
+        },
+        "id": "1817286603787948032",
+        "location": "国境以南 太阳以西",
+        "name": "菠萝吹雪.",
+        "pinned_tweet_id": "1937907728791589028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027428874158854144/r33COlwl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 169,
+          "like_count": 8159,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1213
+        },
+        "url": "https://t.co/457myJQUE7",
+        "username": "21Savage714",
+        "verified": false
+      }
+    ]
+  }
+}

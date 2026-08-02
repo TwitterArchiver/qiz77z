@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2081598420989743312",
+    "created_at": "2026-07-27T08:43:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T09:43:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081661757114995195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1753729663766024192",
+          "start": 0,
+          "username": "apple88257"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081661757114995195",
+    "in_reply_to_user_id": "1753729663766024192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081598420989743312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@apple88257 乐乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1759,
+        "media_key": "3_2081598406389297152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HONSuMnacAA08Tc.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1787,
+        "media_key": "3_2081598414215856128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HONSupxaQAAoDxw.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2081598420989743312",
+        "created_at": "2026-07-27T08:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T09:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081661757114995195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753729663766024192",
+              "start": 0,
+              "username": "apple88257"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081661757114995195",
+        "in_reply_to_user_id": "1753729663766024192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081598420989743312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@apple88257 乐乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081598406389297152",
+            "3_2081598414215856128"
+          ]
+        },
+        "author_id": "1753729663766024192",
+        "conversation_id": "2081598420989743312",
+        "created_at": "2026-07-27T04:31:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T05:31:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081598420989743312"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r99DQPYEIV",
+              "end": 37,
+              "expanded_url": "https://x.com/apple88257/status/2081598420989743312/photo/1",
+              "media_key": "3_2081598406389297152",
+              "start": 14,
+              "url": "https://t.co/r99DQPYEIV"
+            },
+            {
+              "display_url": "pic.x.com/r99DQPYEIV",
+              "end": 37,
+              "expanded_url": "https://x.com/apple88257/status/2081598420989743312/photo/1",
+              "media_key": "3_2081598414215856128",
+              "start": 14,
+              "url": "https://t.co/r99DQPYEIV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081598420989743312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "神本无相呐乐乐\n主包是男孩 https://t.co/r99DQPYEIV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "1",
+        "name": "饺子大王",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069400150402121729/-WWeHiuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 90,
+          "like_count": 2626,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 1473
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-03T10:38:45.000Z",
+        "description": "仅此一个\nhttps://t.co/0oMtvvjyLP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mifan11316",
+                "end": 28,
+                "expanded_url": "https://ngl.link/mifan11316",
+                "start": 5,
+                "url": "https://t.co/0oMtvvjyLP"
+              }
+            ]
+          }
+        },
+        "id": "1753729663766024192",
+        "location": "1km",
+        "name": "米饭",
+        "pinned_tweet_id": "2081361873895604525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071032797947670528/qWleKr40_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 8,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 234
+        },
+        "url": "",
+        "username": "apple88257",
+        "verified": false
+      }
+    ]
+  }
+}

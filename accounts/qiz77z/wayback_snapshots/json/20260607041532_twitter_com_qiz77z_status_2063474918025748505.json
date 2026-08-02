@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2063443469818057045",
+    "created_at": "2026-06-07T04:15:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T05:15:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063474918025748505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1613926971658108930",
+          "start": 0,
+          "username": "MianSheep7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063474918025748505",
+    "in_reply_to_user_id": "1613926971658108930",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063443469818057045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MianSheep7 接。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1337,
+        "media_key": "3_2063443458736721920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKLS5KQbEAAyGrN.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2063443469818057045",
+        "created_at": "2026-06-07T04:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T05:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063474918025748505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1613926971658108930",
+              "start": 0,
+              "username": "MianSheep7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063474918025748505",
+        "in_reply_to_user_id": "1613926971658108930",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063443469818057045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MianSheep7 接。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063443458736721920"
+          ]
+        },
+        "author_id": "1613926971658108930",
+        "conversation_id": "2063443469818057045",
+        "created_at": "2026-06-07T02:10:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T03:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063443469818057045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/29qKz9BHaM",
+              "end": 27,
+              "expanded_url": "https://x.com/MianSheep7/status/2063443469818057045/photo/1",
+              "media_key": "3_2063443458736721920",
+              "start": 4,
+              "url": "https://t.co/29qKz9BHaM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063443469818057045",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1045,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我去🥹 https://t.co/29qKz9BHaM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信 匿名看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055314944363773952/lqU0-_2z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 89,
+          "like_count": 2346,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1417
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-13T15:52:45.000Z",
+        "description": "高敏回避INFP/碎碎念日记📓\n人就像一个洋葱，切下来每一片都让人落泪",
+        "id": "1613926971658108930",
+        "location": "眠眠羊的小世界",
+        "name": "眠眠羊",
+        "pinned_tweet_id": "2061323505099227422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059225882720350209/TJ464S_L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 67,
+          "like_count": 1938,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 1635
+        },
+        "username": "MianSheep7",
+        "verified": false
+      }
+    ]
+  }
+}

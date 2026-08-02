@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2069357370086711645",
+    "created_at": "2026-06-23T10:49:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T11:49:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069372274382340248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1886433513676980224",
+          "start": 0,
+          "username": "MianzzZ9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069372274382340248",
+    "in_reply_to_user_id": "1886433513676980224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069364816092012775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MianzzZ9 这是客厅。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2069357370086711645",
+        "created_at": "2026-06-23T10:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069372274382340248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1886433513676980224",
+              "start": 0,
+              "username": "MianzzZ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069372274382340248",
+        "in_reply_to_user_id": "1886433513676980224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069364816092012775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MianzzZ9 这是客厅。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886433513676980224",
+        "conversation_id": "2069357370086711645",
+        "created_at": "2026-06-23T10:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069364816092012775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1878799432956702720",
+              "start": 0,
+              "username": "qiz77z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069364816092012775",
+        "in_reply_to_user_id": "1878799432956702720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069357370086711645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiz77z 这是给我准备的卧室吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信 匿名看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055314944363773952/lqU0-_2z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 90,
+          "like_count": 2432,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 1298
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T15:16:20.000Z",
+        "description": "INTP",
+        "id": "1886433513676980224",
+        "location": "💤",
+        "name": "mian",
+        "pinned_tweet_id": "1966056238917235083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056627033640505344/O_HzStzV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 19,
+          "like_count": 5206,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "MianzzZ9",
+        "verified": false
+      }
+    ]
+  }
+}

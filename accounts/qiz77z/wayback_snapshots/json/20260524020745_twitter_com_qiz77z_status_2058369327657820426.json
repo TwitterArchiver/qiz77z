@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "london",
+          "id": "855412191050121217",
+          "name": "London"
+        }
+      }
+    ],
+    "conversation_id": "2058369327657820426",
+    "created_at": "2026-05-24T02:07:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T03:07:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058369327657820426"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zzkkaijeaw/sta…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/zzkkaijeaw/status/2058193165044355271",
+          "start": 15,
+          "url": "https://t.co/Us67EceFOg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058369327657820426",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058193165044355271",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "蓝紫金天玄刀我的名字叫张钊。 https://t.co/Us67EceFOg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058193154160181248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJArxNjbwAAL4sm.jpg",
+        "width": 1026
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "london",
+              "id": "855412191050121217",
+              "name": "London"
+            }
+          }
+        ],
+        "conversation_id": "2058369327657820426",
+        "created_at": "2026-05-24T02:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T03:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058369327657820426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zzkkaijeaw/sta…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/zzkkaijeaw/status/2058193165044355271",
+              "start": 15,
+              "url": "https://t.co/Us67EceFOg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058369327657820426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058193165044355271",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "蓝紫金天玄刀我的名字叫张钊。 https://t.co/Us67EceFOg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058193154160181248"
+          ]
+        },
+        "author_id": "1495471541534212096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "london",
+              "id": "855412191050121217",
+              "name": "London"
+            }
+          }
+        ],
+        "conversation_id": "2058193165044355271",
+        "created_at": "2026-05-23T14:27:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T15:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058193165044355271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V9nH6l7XCZ",
+              "end": 56,
+              "expanded_url": "https://x.com/zzkkaijeaw/status/2058193165044355271/photo/1",
+              "media_key": "3_2058193154160181248",
+              "start": 33,
+              "url": "https://t.co/V9nH6l7XCZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058193165044355271",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 29879,
+          "like_count": 1031,
+          "quote_count": 73,
+          "reply_count": 0,
+          "retweet_count": 317
+        },
+        "reply_settings": "following",
+        "text": "edg london jersey is so handsome https://t.co/V9nH6l7XCZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信 匿名看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055314944363773952/lqU0-_2z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 89,
+          "like_count": 2277,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1362
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-20T18:53:09.000Z",
+        "description": "(TH/EN) 1001 ♡ fc bayern₊müller,musiala ♡ ❝loki&inonix❞ ♡ everything for zmjjkk&smoggy ❝ 钊康是我的宝宝 ♡ mostly edgval&zzkk ♡ +vl.klaus ♡ fs.killua ♡ fan acc ¨̮",
+        "id": "1495471541534212096",
+        "location": "zhaokang’s world",
+        "name": "kaijeaw ♡ (̂•͈Ꙫ•͈⑅)̂ ୭",
+        "pinned_tweet_id": "1893378720494203053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883468563413168128/6AZbo288_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1144,
+          "following_count": 78,
+          "like_count": 6644,
+          "listed_count": 2,
+          "media_count": 4514,
+          "tweet_count": 45027
+        },
+        "username": "zzkkaijeaw",
+        "verified": false
+      }
+    ]
+  }
+}

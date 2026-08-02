@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2052389783029047552",
+    "created_at": "2026-05-09T11:41:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T12:41:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053077790912827627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1979620411609612288",
+          "start": 0,
+          "username": "iamhaliz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053077790912827627",
+    "in_reply_to_user_id": "1979620411609612288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052389783029047552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iamhaliz 吓哭了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052389778700529668",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuNoTQWcAQy16l.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2052389783029047552",
+        "created_at": "2026-05-09T11:41:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T12:41:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053077790912827627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1979620411609612288",
+              "start": 0,
+              "username": "iamhaliz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053077790912827627",
+        "in_reply_to_user_id": "1979620411609612288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052389783029047552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iamhaliz 吓哭了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052389778700529668"
+          ]
+        },
+        "author_id": "1979620411609612288",
+        "conversation_id": "2052389783029047552",
+        "created_at": "2026-05-07T14:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052389783029047552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V1v3HcMejC",
+              "end": 29,
+              "expanded_url": "https://x.com/iamhaliz/status/2052389783029047552/photo/1",
+              "media_key": "3_2052389778700529668",
+              "start": 6,
+              "url": "https://t.co/V1v3HcMejC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052389783029047552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 181,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "误闯天家～ https://t.co/V1v3HcMejC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050060286355554304/yYay5Spf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 88,
+          "like_count": 2302,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 1293
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-18T18:47:54.000Z",
+        "description": "就爱发点碎碎念\n所以\n欧服瓦有无🤓",
+        "id": "1979620411609612288",
+        "location": "London, England",
+        "name": "KashyyyK",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029328150287581184/zeuoU368_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 84,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 100
+        },
+        "username": "iamhaliz",
+        "verified": false
+      }
+    ]
+  }
+}

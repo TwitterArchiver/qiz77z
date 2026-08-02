@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2061036218197193105",
+    "created_at": "2026-05-31T13:59:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T14:59:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061085180669116439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1716794960371179520",
+          "start": 0,
+          "username": "Zxy147796"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061085180669116439",
+    "in_reply_to_user_id": "1716794960371179520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061083897048506873",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zxy147796 其实全程都是我笑点低吧，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2061036218197193105",
+        "created_at": "2026-05-31T13:59:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T14:59:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061085180669116439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1716794960371179520",
+              "start": 0,
+              "username": "Zxy147796"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061085180669116439",
+        "in_reply_to_user_id": "1716794960371179520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061083897048506873",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zxy147796 其实全程都是我笑点低吧，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1716794960371179520",
+        "conversation_id": "2061036218197193105",
+        "created_at": "2026-05-31T13:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T14:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061083897048506873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1878799432956702720",
+              "start": 0,
+              "username": "qiz77z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061083897048506873",
+        "in_reply_to_user_id": "1878799432956702720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061036218197193105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiz77z 想看 有多好笑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信 匿名看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055314944363773952/lqU0-_2z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 91,
+          "like_count": 2332,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 1395
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-24T12:33:27.000Z",
+        "description": "谁会拒绝短且别着剪刀的女孩呢？",
+        "id": "1716794960371179520",
+        "name": "短发剪刀大王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060993532395921410/ZzKMsFMr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 5,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 37
+        },
+        "username": "Zxy147796",
+        "verified": false
+      }
+    ]
+  }
+}

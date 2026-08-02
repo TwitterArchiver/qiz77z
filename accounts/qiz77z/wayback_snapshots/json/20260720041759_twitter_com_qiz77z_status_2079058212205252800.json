@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2079058212205252800",
+    "created_at": "2026-07-20T04:17:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T05:17:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079058212205252800"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/21Savage714/st…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/21Savage714/status/2078940878933238110",
+          "start": 28,
+          "url": "https://t.co/VvSX7jSC8x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079058212205252800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078940878933238110",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要把微信删了，这个脑残软件，没人给我发信息，光占内存 https://t.co/VvSX7jSC8x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2079058212205252800",
+        "created_at": "2026-07-20T04:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T05:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079058212205252800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/21Savage714/st…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/21Savage714/status/2078940878933238110",
+              "start": 28,
+              "url": "https://t.co/VvSX7jSC8x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079058212205252800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078940878933238110",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要把微信删了，这个脑残软件，没人给我发信息，光占内存 https://t.co/VvSX7jSC8x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817286603787948032",
+        "conversation_id": "2078940878933238110",
+        "created_at": "2026-07-19T20:31:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T21:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078940878933238110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i7uu12yy7/stat…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/i7uu12yy7/status/2078894679748395283",
+              "start": 29,
+              "url": "https://t.co/4cHJOuqsOk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078940878933238110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078894679748395283",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要把微信删了，这个脑残软件，没人给我发信息，光占内存。 https://t.co/4cHJOuqsOk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "饺子大王",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069400150402121729/-WWeHiuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 88,
+          "like_count": 2558,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 1413
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T19:51:13.000Z",
+        "description": "高中生 巨蟹  infp  Khalil  21Savage Haruki Murakami \n我菠萝吹雪，吹的不是雪，是血",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/easonpang",
+                "end": 23,
+                "expanded_url": "https://ngl.link/easonpang",
+                "start": 0,
+                "url": "https://t.co/4hVIlChvFs"
+              }
+            ]
+          }
+        },
+        "id": "1817286603787948032",
+        "location": "国境以南 太阳以西",
+        "name": "菠萝吹雪.",
+        "pinned_tweet_id": "1937907728791589028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078364481114210305/tJowxZwX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 164,
+          "like_count": 8457,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 1303
+        },
+        "url": "https://t.co/4hVIlChvFs",
+        "username": "21Savage714",
+        "verified": false
+      }
+    ]
+  }
+}

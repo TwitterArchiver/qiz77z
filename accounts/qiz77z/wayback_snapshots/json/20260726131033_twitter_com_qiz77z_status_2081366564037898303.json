@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2081306638120780230",
+    "created_at": "2026-07-26T13:10:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T14:10:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081366564037898303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1661178391784194049",
+          "start": 0,
+          "username": "yuanyua26917401"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081366564037898303",
+    "in_reply_to_user_id": "1661178391784194049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081346167561228418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuanyua26917401 万达广场"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2081306638120780230",
+        "created_at": "2026-07-26T13:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T14:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081366564037898303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1661178391784194049",
+              "start": 0,
+              "username": "yuanyua26917401"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081366564037898303",
+        "in_reply_to_user_id": "1661178391784194049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081346167561228418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuanyua26917401 万达广场"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1661178391784194049",
+        "conversation_id": "2081306638120780230",
+        "created_at": "2026-07-26T11:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T12:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081346167561228418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1878799432956702720",
+              "start": 0,
+              "username": "qiz77z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081346167561228418",
+        "in_reply_to_user_id": "1878799432956702720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081306638120780230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiz77z 同城🉑约"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "1",
+        "name": "饺子大王",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069400150402121729/-WWeHiuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 90,
+          "like_count": 2618,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 1449
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-24T01:12:58.000Z",
+        "description": "05 188 75㎏ 丨\n薄肌瘦宅 INTJ丨\n性别男 男同绕道丨\n来推是为了看模型制作范例丨\n喜欢动画漫画（背景图会更新我最近在看的动漫）丨\n无情点赞机器丨\n视奸爱好者丨\n欢迎互fo/私信聊天  (°∀°)ﾉ丨\n玩Q区王者＆金铲铲的也欢迎滴滴丨",
+        "id": "1661178391784194049",
+        "location": "99.9km",
+        "name": "你太可爱了所以我",
+        "pinned_tweet_id": "1803379050112753898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039372608504745984/BVFB0wLB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 669,
+          "like_count": 60540,
+          "listed_count": 0,
+          "media_count": 395,
+          "tweet_count": 2050
+        },
+        "url": "",
+        "username": "yuanyua26917401",
+        "verified": false
+      }
+    ]
+  }
+}

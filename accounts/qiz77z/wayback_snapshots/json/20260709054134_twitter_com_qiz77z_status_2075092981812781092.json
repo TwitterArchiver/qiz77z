@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2074167536749535712",
+    "created_at": "2026-07-09T05:41:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T06:41:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075092981812781092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2020125751396474880",
+          "start": 0,
+          "username": "lofrtyvcla"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075092981812781092",
+    "in_reply_to_user_id": "2020125751396474880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074892003087995121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lofrtyvcla 一个男喘叫A！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2074167536749535712",
+        "created_at": "2026-07-09T05:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T06:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075092981812781092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2020125751396474880",
+              "start": 0,
+              "username": "lofrtyvcla"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075092981812781092",
+        "in_reply_to_user_id": "2020125751396474880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074892003087995121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lofrtyvcla 一个男喘叫A！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020125751396474880",
+        "conversation_id": "2074167536749535712",
+        "created_at": "2026-07-08T16:22:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T17:22:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074892003087995121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1878799432956702720",
+              "start": 0,
+              "username": "qiz77z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074892003087995121",
+        "in_reply_to_user_id": "1878799432956702720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074167536749535712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiz77z 这次是谁我没有吃到！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信 匿名看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "饺子大王zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069400150402121729/-WWeHiuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 83,
+          "like_count": 2504,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 1350
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-07T13:21:39.000Z",
+        "description": "随遇而安，随心而行（互fo）",
+        "id": "2020125751396474880",
+        "name": "Everything goes well",
+        "pinned_tweet_id": "2024827815426994426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059104925624451072/zx6VHm83_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 115,
+          "like_count": 4773,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 188
+        },
+        "url": "",
+        "username": "lofrtyvcla",
+        "verified": false
+      }
+    ]
+  }
+}

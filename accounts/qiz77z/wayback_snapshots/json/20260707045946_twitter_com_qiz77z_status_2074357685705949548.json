@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074357680001675265",
+        "3_2074357681566175232",
+        "3_2074357682056962048"
+      ]
+    },
+    "author_id": "1878799432956702720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2074147578162430359",
+    "created_at": "2026-07-07T04:59:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T05:59:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074357685705949548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2004377925303644160",
+          "start": 0,
+          "username": "allmoneycome2me"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a7cqpZ7bBp",
+          "end": 56,
+          "expanded_url": "https://x.com/qiz77z/status/2074357685705949548/photo/1",
+          "media_key": "3_2074357680001675265",
+          "start": 33,
+          "url": "https://t.co/a7cqpZ7bBp"
+        },
+        {
+          "display_url": "pic.x.com/a7cqpZ7bBp",
+          "end": 56,
+          "expanded_url": "https://x.com/qiz77z/status/2074357685705949548/photo/1",
+          "media_key": "3_2074357681566175232",
+          "start": 33,
+          "url": "https://t.co/a7cqpZ7bBp"
+        },
+        {
+          "display_url": "pic.x.com/a7cqpZ7bBp",
+          "end": 56,
+          "expanded_url": "https://x.com/qiz77z/status/2074357685705949548/photo/1",
+          "media_key": "3_2074357682056962048",
+          "start": 33,
+          "url": "https://t.co/a7cqpZ7bBp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074357685705949548",
+    "in_reply_to_user_id": "2004377925303644160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074349535099544057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@allmoneycome2me 刚刚又吃了一个特大份鸡柳大人。 https://t.co/a7cqpZ7bBp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074357680001675265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMmZUc2acAEf_cL.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074357681566175232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMmZUira0AAqdnL.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074357682056962048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMmZUkgboAA4qdp.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074357680001675265",
+            "3_2074357681566175232",
+            "3_2074357682056962048"
+          ]
+        },
+        "author_id": "1878799432956702720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2074147578162430359",
+        "created_at": "2026-07-07T04:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T05:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074357685705949548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2004377925303644160",
+              "start": 0,
+              "username": "allmoneycome2me"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a7cqpZ7bBp",
+              "end": 56,
+              "expanded_url": "https://x.com/qiz77z/status/2074357685705949548/photo/1",
+              "media_key": "3_2074357680001675265",
+              "start": 33,
+              "url": "https://t.co/a7cqpZ7bBp"
+            },
+            {
+              "display_url": "pic.x.com/a7cqpZ7bBp",
+              "end": 56,
+              "expanded_url": "https://x.com/qiz77z/status/2074357685705949548/photo/1",
+              "media_key": "3_2074357681566175232",
+              "start": 33,
+              "url": "https://t.co/a7cqpZ7bBp"
+            },
+            {
+              "display_url": "pic.x.com/a7cqpZ7bBp",
+              "end": 56,
+              "expanded_url": "https://x.com/qiz77z/status/2074357685705949548/photo/1",
+              "media_key": "3_2074357682056962048",
+              "start": 33,
+              "url": "https://t.co/a7cqpZ7bBp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074357685705949548",
+        "in_reply_to_user_id": "2004377925303644160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074349535099544057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@allmoneycome2me 刚刚又吃了一个特大份鸡柳大人。 https://t.co/a7cqpZ7bBp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004377925303644160",
+        "conversation_id": "2074147578162430359",
+        "created_at": "2026-07-07T04:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T05:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074349535099544057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1878799432956702720",
+              "start": 0,
+              "username": "qiz77z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074349535099544057",
+        "in_reply_to_user_id": "1878799432956702720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074147578162430359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiz77z 吃的啥啊😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信 匿名看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "饺子大王zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069400150402121729/-WWeHiuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 86,
+          "like_count": 2491,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 1340
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-26T02:25:28.000Z",
+        "description": "",
+        "id": "2004377925303644160",
+        "name": "季基博",
+        "pinned_tweet_id": "2029459111222624345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056914768460677120/Vdvwj4gn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 3,
+          "like_count": 1017,
+          "listed_count": 1,
+          "media_count": 1178,
+          "tweet_count": 4317
+        },
+        "url": "",
+        "username": "allmoneycome2me",
+        "verified": false
+      }
+    ]
+  }
+}

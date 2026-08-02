@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2063289606657999005",
+    "created_at": "2026-06-07T04:18:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T05:18:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063475776931103075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1942813965945372672",
+          "start": 0,
+          "username": "lb114514nidie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063475776931103075",
+    "in_reply_to_user_id": "1942813965945372672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063403448981418086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lb114514nidie 牛逼克拉斯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2063289606657999005",
+        "created_at": "2026-06-07T04:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T05:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063475776931103075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1942813965945372672",
+              "start": 0,
+              "username": "lb114514nidie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063475776931103075",
+        "in_reply_to_user_id": "1942813965945372672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063403448981418086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lb114514nidie 牛逼克拉斯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942813965945372672",
+        "conversation_id": "2063289606657999005",
+        "created_at": "2026-06-06T23:31:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T00:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063403448981418086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1878799432956702720",
+              "start": 0,
+              "username": "qiz77z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063403448981418086",
+        "in_reply_to_user_id": "1878799432956702720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063289606657999005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiz77z 无畏契约牛逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信 匿名看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055314944363773952/lqU0-_2z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 89,
+          "like_count": 2348,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1419
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-09T05:12:08.000Z",
+        "description": "🚪114514",
+        "id": "1942813965945372672",
+        "location": "中国",
+        "name": "神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063389406292258816/VqwB7qGJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 46,
+          "like_count": 676,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 88
+        },
+        "username": "lb114514nidie",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2078072559124512826",
+    "created_at": "2026-07-18T04:26:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T05:26:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078335572817662283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2022333264594448385",
+          "start": 0,
+          "username": "ji_mi15046"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078335572817662283",
+    "in_reply_to_user_id": "2022333264594448385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078072559124512826",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ji_mi15046 大哥哥你咋越来越帅？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078072549624406016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNbL-UnaYAAFnvM.jpg",
+        "width": 1626
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2078072559124512826",
+        "created_at": "2026-07-18T04:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T05:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078335572817662283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2022333264594448385",
+              "start": 0,
+              "username": "ji_mi15046"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078335572817662283",
+        "in_reply_to_user_id": "2022333264594448385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078072559124512826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji_mi15046 大哥哥你咋越来越帅？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078072549624406016"
+          ]
+        },
+        "author_id": "2022333264594448385",
+        "conversation_id": "2078072559124512826",
+        "created_at": "2026-07-17T11:01:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T12:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078072559124512826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fGooqxhHYg",
+              "end": 37,
+              "expanded_url": "https://x.com/ji_mi15046/status/2078072559124512826/photo/1",
+              "media_key": "3_2078072549624406016",
+              "start": 14,
+              "url": "https://t.co/fGooqxhHYg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078072559124512826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 486,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "斜方肌成功占领整张图片顶部 https://t.co/fGooqxhHYg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "饺子大王",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069400150402121729/-WWeHiuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 86,
+          "like_count": 2582,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 1387
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T15:33:29.000Z",
+        "description": "｜哦哦只是一只爱健身的小老鼠！哦哦。谢谢\n｜我姐姐@sansan_9_7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "sansan_9_7"
+              }
+            ]
+          }
+        },
+        "id": "2022333264594448385",
+        "location": "记得天天开心 偶尔来看看鸟",
+        "name": "迷途鸟",
+        "pinned_tweet_id": "2076254554639978886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075042441598750720/sroFwdlV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1729,
+          "following_count": 112,
+          "like_count": 3124,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 1341
+        },
+        "url": "",
+        "username": "ji_mi15046",
+        "verified": false
+      }
+    ]
+  }
+}

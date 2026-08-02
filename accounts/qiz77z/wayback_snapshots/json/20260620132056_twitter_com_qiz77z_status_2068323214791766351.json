@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2067919560096051567",
+    "created_at": "2026-06-20T13:20:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T14:20:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068323214791766351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2004377925303644160",
+          "start": 0,
+          "username": "allmoneycome2me"
+        },
+        {
+          "end": 27,
+          "id": "1820455099308929024",
+          "start": 17,
+          "username": "LunaAI519"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068323214791766351",
+    "in_reply_to_user_id": "2004377925303644160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068220794011041973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@allmoneycome2me @LunaAI519 抖音有流量就赚。只不过我搞的是五元无门槛券。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2067919560096051567",
+        "created_at": "2026-06-20T13:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T14:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068323214791766351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2004377925303644160",
+              "start": 0,
+              "username": "allmoneycome2me"
+            },
+            {
+              "end": 27,
+              "id": "1820455099308929024",
+              "start": 17,
+              "username": "LunaAI519"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068323214791766351",
+        "in_reply_to_user_id": "2004377925303644160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068220794011041973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@allmoneycome2me @LunaAI519 抖音有流量就赚。只不过我搞的是五元无门槛券。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004377925303644160",
+        "conversation_id": "2067919560096051567",
+        "created_at": "2026-06-20T06:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T07:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068220794011041973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1820455099308929024",
+              "start": 0,
+              "username": "LunaAI519"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068220794011041973",
+        "in_reply_to_user_id": "1820455099308929024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 639,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067919560096051567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LunaAI519 这靠啥赚钱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信 匿名看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055314944363773952/lqU0-_2z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 89,
+          "like_count": 2428,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 1288
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-26T02:25:28.000Z",
+        "description": "你怎么了？这个世界还是很温暖的。",
+        "id": "2004377925303644160",
+        "name": "季基博",
+        "pinned_tweet_id": "2029459111222624345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056914768460677120/Vdvwj4gn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 3,
+          "like_count": 998,
+          "listed_count": 1,
+          "media_count": 1127,
+          "tweet_count": 4143
+        },
+        "url": "",
+        "username": "allmoneycome2me",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-05T13:41:39.000Z",
+        "description": "金融视角解读万物\n管理者｜小白的定投纳指标普指南\nHername主理人\nAI时代的商业落地分析",
+        "id": "1820455099308929024",
+        "location": "付费咨询VX：Lunaai519（添加时请说明来意)",
+        "name": "Luna",
+        "pinned_tweet_id": "2059174451422654873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045467727113191424/kmykamIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17724,
+          "following_count": 426,
+          "like_count": 5471,
+          "listed_count": 76,
+          "media_count": 681,
+          "tweet_count": 12037
+        },
+        "url": "",
+        "username": "LunaAI519",
+        "verified": true
+      }
+    ]
+  }
+}

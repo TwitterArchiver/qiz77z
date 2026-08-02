@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050812558232489984"
+      ]
+    },
+    "author_id": "1878799432956702720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2050812573700985065",
+    "created_at": "2026-05-03T05:39:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T06:39:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050812573700985065"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sYbzd7jKUo",
+          "end": 31,
+          "expanded_url": "https://x.com/qiz77z/status/2050812573700985065/photo/1",
+          "media_key": "3_2050812558232489984",
+          "start": 8,
+          "url": "https://t.co/sYbzd7jKUo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050812573700985065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我都懒得说自己 https://t.co/sYbzd7jKUo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2050812558232489984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHXzJ_JbkAAqDXC.jpg",
+        "width": 2248
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050812558232489984"
+          ]
+        },
+        "author_id": "1878799432956702720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2050812573700985065",
+        "created_at": "2026-05-03T05:39:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T06:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050812573700985065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sYbzd7jKUo",
+              "end": 31,
+              "expanded_url": "https://x.com/qiz77z/status/2050812573700985065/photo/1",
+              "media_key": "3_2050812558232489984",
+              "start": 8,
+              "url": "https://t.co/sYbzd7jKUo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050812573700985065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我都懒得说自己 https://t.co/sYbzd7jKUo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050060286355554304/yYay5Spf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 89,
+          "like_count": 2269,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 1260
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      }
+    ]
+  }
+}

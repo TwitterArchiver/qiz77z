@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2081378651048907125",
+    "created_at": "2026-07-26T15:11:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T16:11:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081396893742248407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1805999677592268800",
+          "start": 0,
+          "username": "1needYumm_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081396893742248407",
+    "in_reply_to_user_id": "1805999677592268800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081378651048907125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1needYumm_ 这是啥啊……对自己好一点吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081378638692581376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOKK2CJbgAA102v.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2081378651048907125",
+        "created_at": "2026-07-26T15:11:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T16:11:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081396893742248407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1805999677592268800",
+              "start": 0,
+              "username": "1needYumm_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081396893742248407",
+        "in_reply_to_user_id": "1805999677592268800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081378651048907125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1needYumm_ 这是啥啊……对自己好一点吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081378638692581376"
+          ]
+        },
+        "author_id": "1805999677592268800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2081378651048907125",
+        "created_at": "2026-07-26T13:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T14:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081378651048907125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7X9BARdZVM",
+              "end": 50,
+              "expanded_url": "https://x.com/1needYumm_/status/2081378651048907125/photo/1",
+              "media_key": "3_2081378638692581376",
+              "start": 27,
+              "url": "https://t.co/7X9BARdZVM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081378651048907125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最后决定吃的这个。我买的那个小土豆根本做不成土豆泥！ https://t.co/7X9BARdZVM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "NG",
+              "full_name": "Obolo-Eke (1), Enugu State, Nigeria",
+              "geo": {
+                "coordinates": [
+                  7.63333,
+                  6.88333
+                ],
+                "type": "Point"
+              },
+              "locality": "Obolo-Eke (1)",
+              "region": "Enugu State"
+            }
+          ]
+        },
+        "description": "祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "1",
+        "name": "饺子大王",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069400150402121729/-WWeHiuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 90,
+          "like_count": 2618,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 1451
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-26T16:21:05.000Z",
+        "description": "一个长得丑的穷逼在发疯",
+        "id": "1805999677592268800",
+        "location": "不爱男不爱女只爱心肝和自己",
+        "name": "小众忧郁名字",
+        "pinned_tweet_id": "2080628724249280777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012722623994556417/WLf7KCL1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 36,
+          "like_count": 4724,
+          "listed_count": 0,
+          "media_count": 205,
+          "tweet_count": 1548
+        },
+        "url": "",
+        "username": "1needYumm_",
+        "verified": false
+      }
+    ]
+  }
+}

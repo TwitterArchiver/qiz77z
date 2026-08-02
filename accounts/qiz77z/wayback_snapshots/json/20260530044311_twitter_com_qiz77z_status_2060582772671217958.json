@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060381974338936833"
+      ],
+      "media_source_tweet_id": [
+        "2060381977224585529"
+      ]
+    },
+    "author_id": "1878799432956702720",
+    "conversation_id": "2060582772671217958",
+    "created_at": "2026-05-30T04:43:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T05:43:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060582772671217958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1552201324384731136",
+          "start": 3,
+          "username": "rinapicss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/J3Ht3GQ05b",
+          "end": 38,
+          "expanded_url": "https://x.com/rinapicss/status/2060381977224585529/photo/1",
+          "media_key": "3_2060381974338936833",
+          "start": 15,
+          "url": "https://t.co/J3Ht3GQ05b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060582772671217958",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1761
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060381977224585529",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rinapicss: https://t.co/J3Ht3GQ05b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1916,
+        "media_key": "3_2060381974338936833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJfyfUIXIAE1ecA.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060381974338936833"
+          ],
+          "media_source_tweet_id": [
+            "2060381977224585529"
+          ]
+        },
+        "author_id": "1878799432956702720",
+        "conversation_id": "2060582772671217958",
+        "created_at": "2026-05-30T04:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T05:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060582772671217958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1552201324384731136",
+              "start": 3,
+              "username": "rinapicss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J3Ht3GQ05b",
+              "end": 38,
+              "expanded_url": "https://x.com/rinapicss/status/2060381977224585529/photo/1",
+              "media_key": "3_2060381974338936833",
+              "start": 15,
+              "url": "https://t.co/J3Ht3GQ05b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060582772671217958",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1761
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060381977224585529",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rinapicss: https://t.co/J3Ht3GQ05b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060381974338936833"
+          ]
+        },
+        "author_id": "1552201324384731136",
+        "conversation_id": "2060381977224585529",
+        "created_at": "2026-05-29T15:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060381977224585529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J3Ht3GQ05b",
+              "end": 23,
+              "expanded_url": "https://x.com/rinapicss/status/2060381977224585529/photo/1",
+              "media_key": "3_2060381974338936833",
+              "start": 0,
+              "url": "https://t.co/J3Ht3GQ05b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060381977224585529",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1069,
+          "impression_count": 101367,
+          "like_count": 15275,
+          "quote_count": 89,
+          "reply_count": 10,
+          "retweet_count": 1761
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/J3Ht3GQ05b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信 匿名看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055314944363773952/lqU0-_2z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 90,
+          "like_count": 2294,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1378
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T07:57:09.000Z",
+        "description": "for miss katarina",
+        "id": "1552201324384731136",
+        "name": "karina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042975599724036096/VQck52Lz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63161,
+          "following_count": 19,
+          "like_count": 12687,
+          "listed_count": 241,
+          "media_count": 1730,
+          "tweet_count": 1964
+        },
+        "username": "rinapicss",
+        "verified": false
+      }
+    ]
+  }
+}

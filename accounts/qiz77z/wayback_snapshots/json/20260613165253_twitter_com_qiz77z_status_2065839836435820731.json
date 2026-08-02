@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065839741564801024"
+      ]
+    },
+    "author_id": "1878799432956702720",
+    "conversation_id": "2065839836435820731",
+    "created_at": "2026-06-13T16:52:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T17:52:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065839836435820731"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rMMFMKP76W",
+          "end": 41,
+          "expanded_url": "https://x.com/qiz77z/status/2065839836435820731/photo/1",
+          "media_key": "3_2065839741564801024",
+          "start": 18,
+          "url": "https://t.co/rMMFMKP76W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065839836435820731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我钊哥说你们有点装 fut你们懂吗 https://t.co/rMMFMKP76W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2065839741564801024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKtWTLba0AAR0Lq.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065839741564801024"
+          ]
+        },
+        "author_id": "1878799432956702720",
+        "conversation_id": "2065839836435820731",
+        "created_at": "2026-06-13T16:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T17:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065839836435820731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rMMFMKP76W",
+              "end": 41,
+              "expanded_url": "https://x.com/qiz77z/status/2065839836435820731/photo/1",
+              "media_key": "3_2065839741564801024",
+              "start": 18,
+              "url": "https://t.co/rMMFMKP76W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065839836435820731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我钊哥说你们有点装 fut你们懂吗 https://t.co/rMMFMKP76W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信 匿名看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055314944363773952/lqU0-_2z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 87,
+          "like_count": 2379,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 1399
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2069426138045177971",
+    "created_at": "2026-06-23T23:30:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T00:30:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069563870524633254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1519270040813506560",
+          "start": 0,
+          "username": "a15214255396"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069563870524633254",
+    "in_reply_to_user_id": "1519270040813506560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069426138045177971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a15214255396 这是文案库吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2069426138045177971",
+        "created_at": "2026-06-23T23:30:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T00:30:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069563870524633254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1519270040813506560",
+              "start": 0,
+              "username": "a15214255396"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069563870524633254",
+        "in_reply_to_user_id": "1519270040813506560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069426138045177971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a15214255396 这是文案库吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1519270040813506560",
+        "conversation_id": "2069426138045177971",
+        "created_at": "2026-06-23T14:23:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T15:23:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069426138045177971"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069426138045177971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于我的性格 我欠你一个道歉但关于我对你的爱在所有人当中 我唯独对得起你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信 匿名看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2Xzn2pV"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "饺子大王zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069400150402121729/-WWeHiuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 90,
+          "like_count": 2439,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1302
+        },
+        "url": "https://t.co/uuU2Xzn2pV",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-27T10:59:45.000Z",
+        "description": "为数不多的素质全用在卖萌上了 等图穷匕见你发现我是个神精病已经晚了^ ^（男生）",
+        "id": "1519270040813506560",
+        "location": "神/.",
+        "name": "锅包肉想吃阿青",
+        "pinned_tweet_id": "2062938962625437706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063630852710400000/rf55v_Ae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 91,
+          "like_count": 3470,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 720
+        },
+        "url": "",
+        "username": "a15214255396",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2058369327657820426",
+    "created_at": "2026-05-24T05:24:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T06:24:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058418920940511636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1669187250326851585",
+          "start": 0,
+          "username": "snsjshswjh38771"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058418920940511636",
+    "in_reply_to_user_id": "1669187250326851585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058408114974867583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@snsjshswjh38771 我从头到尾对勋哥无感。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2058369327657820426",
+        "created_at": "2026-05-24T05:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T06:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058418920940511636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1669187250326851585",
+              "start": 0,
+              "username": "snsjshswjh38771"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058418920940511636",
+        "in_reply_to_user_id": "1669187250326851585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058408114974867583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@snsjshswjh38771 我从头到尾对勋哥无感。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669187250326851585",
+        "conversation_id": "2058369327657820426",
+        "created_at": "2026-05-24T04:41:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T05:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058408114974867583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1878799432956702720",
+              "start": 0,
+              "username": "qiz77z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058408114974867583",
+        "in_reply_to_user_id": "1878799432956702720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058369327657820426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiz77z 真是风水轮流转啊，现在钊哥顺风了你勋哥逆风了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信 匿名看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055314944363773952/lqU0-_2z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 89,
+          "like_count": 2281,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1368
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T03:37:16.000Z",
+        "description": "男丨爱猫丨爱听周杰伦王力宏陶喆林俊杰孙燕姿蔡依林IU丨🏀丨寻找有趣的灵魂丨bg3｜不抽烟不喝酒好好学习天天向上",
+        "id": "1669187250326851585",
+        "location": "济南",
+        "name": "梨花熏雨",
+        "pinned_tweet_id": "1909881681638834277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794557648245055488/SfG4TV0z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 3242,
+          "like_count": 20197,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 8601
+        },
+        "username": "snsjshswjh38771",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071476338406641664"
+      ]
+    },
+    "author_id": "1878799432956702720",
+    "conversation_id": "2071476351316660443",
+    "created_at": "2026-06-29T06:10:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T07:10:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071476351316660443"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/p7GvRZB5t0",
+          "end": 30,
+          "expanded_url": "https://x.com/qiz77z/status/2071476351316660443/photo/1",
+          "media_key": "3_2071476338406641664",
+          "start": 7,
+          "url": "https://t.co/p7GvRZB5t0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071476351316660443",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "闺蜜你好热情 https://t.co/p7GvRZB5t0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071476338406641664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL9cwS9a0AAeMK8.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071476338406641664"
+          ]
+        },
+        "author_id": "1878799432956702720",
+        "conversation_id": "2071476351316660443",
+        "created_at": "2026-06-29T06:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T07:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071476351316660443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p7GvRZB5t0",
+              "end": 30,
+              "expanded_url": "https://x.com/qiz77z/status/2071476351316660443/photo/1",
+              "media_key": "3_2071476338406641664",
+              "start": 7,
+              "url": "https://t.co/p7GvRZB5t0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071476351316660443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "闺蜜你好热情 https://t.co/p7GvRZB5t0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信 匿名看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "饺子大王zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069400150402121729/-WWeHiuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 87,
+          "like_count": 2475,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 1319
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      }
+    ]
+  }
+}

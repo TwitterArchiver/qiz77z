@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081663156477452288",
+        "3_2081663170880720897",
+        "3_2081663189142708225"
+      ]
+    },
+    "author_id": "1878799432956702720",
+    "conversation_id": "2081663204145672661",
+    "created_at": "2026-07-27T08:49:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T09:49:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081663204145672661"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/T1fBSMXcOO",
+          "end": 27,
+          "expanded_url": "https://x.com/qiz77z/status/2081663204145672661/photo/1",
+          "media_key": "3_2081663156477452288",
+          "start": 4,
+          "url": "https://t.co/T1fBSMXcOO"
+        },
+        {
+          "display_url": "pic.x.com/T1fBSMXcOO",
+          "end": 27,
+          "expanded_url": "https://x.com/qiz77z/status/2081663204145672661/photo/1",
+          "media_key": "3_2081663170880720897",
+          "start": 4,
+          "url": "https://t.co/T1fBSMXcOO"
+        },
+        {
+          "display_url": "pic.x.com/T1fBSMXcOO",
+          "end": 27,
+          "expanded_url": "https://x.com/qiz77z/status/2081663204145672661/photo/1",
+          "media_key": "3_2081663189142708225",
+          "start": 4,
+          "url": "https://t.co/T1fBSMXcOO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081663204145672661",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ngl https://t.co/T1fBSMXcOO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2736,
+        "media_key": "3_2081663156477452288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOONnJfbYAAiifx.jpg",
+        "width": 1264
+      },
+      {
+        "height": 2736,
+        "media_key": "3_2081663170880720897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOONn_Jb0AErlLN.jpg",
+        "width": 1264
+      },
+      {
+        "height": 2736,
+        "media_key": "3_2081663189142708225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOONpDLboAEkYdP.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081663156477452288",
+            "3_2081663170880720897",
+            "3_2081663189142708225"
+          ]
+        },
+        "author_id": "1878799432956702720",
+        "conversation_id": "2081663204145672661",
+        "created_at": "2026-07-27T08:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T09:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081663204145672661"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T1fBSMXcOO",
+              "end": 27,
+              "expanded_url": "https://x.com/qiz77z/status/2081663204145672661/photo/1",
+              "media_key": "3_2081663156477452288",
+              "start": 4,
+              "url": "https://t.co/T1fBSMXcOO"
+            },
+            {
+              "display_url": "pic.x.com/T1fBSMXcOO",
+              "end": 27,
+              "expanded_url": "https://x.com/qiz77z/status/2081663204145672661/photo/1",
+              "media_key": "3_2081663170880720897",
+              "start": 4,
+              "url": "https://t.co/T1fBSMXcOO"
+            },
+            {
+              "display_url": "pic.x.com/T1fBSMXcOO",
+              "end": 27,
+              "expanded_url": "https://x.com/qiz77z/status/2081663204145672661/photo/1",
+              "media_key": "3_2081663189142708225",
+              "start": 4,
+              "url": "https://t.co/T1fBSMXcOO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081663204145672661",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ngl https://t.co/T1fBSMXcOO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "NG",
+              "full_name": "Obolo-Eke (1), Enugu State, Nigeria",
+              "geo": {
+                "coordinates": [
+                  7.63333,
+                  6.88333
+                ],
+                "type": "Point"
+              },
+              "locality": "Obolo-Eke (1)",
+              "region": "Enugu State"
+            }
+          ]
+        },
+        "description": "祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "1",
+        "name": "饺子大王",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069400150402121729/-WWeHiuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 90,
+          "like_count": 2626,
+          "listed_count": 2,
+          "media_count": 124,
+          "tweet_count": 1474
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      }
+    ]
+  }
+}

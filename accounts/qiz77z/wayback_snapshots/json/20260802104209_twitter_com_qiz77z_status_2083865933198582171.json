@@ -1,0 +1,125 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2083865933198582171",
+    "created_at": "2026-08-02T10:42:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T11:42:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083865933198582171"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083865933198582171",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想象一下我是你焦虑型低精力高需求的女朋友，喜欢粘着你给你发絮絮叨叨的小事情，你要是长时间没理我我就开始脑补你不喜欢我了或者我哪做的不好开始emo，但是你回我了告诉我刚刚干嘛去了我就屁颠屁颠开心了，我又会开开心心凑到你身边，继续跟你分享点点滴滴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2083865933198582171",
+        "created_at": "2026-08-02T10:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083865933198582171"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083865933198582171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下我是你焦虑型低精力高需求的女朋友，喜欢粘着你给你发絮絮叨叨的小事情，你要是长时间没理我我就开始脑补你不喜欢我了或者我哪做的不好开始emo，但是你回我了告诉我刚刚干嘛去了我就屁颠屁颠开心了，我又会开开心心凑到你身边，继续跟你分享点点滴滴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "NG",
+              "full_name": "Obolo-Eke (1), Enugu State, Nigeria",
+              "geo": {
+                "coordinates": [
+                  7.63333,
+                  6.88333
+                ],
+                "type": "Point"
+              },
+              "locality": "Obolo-Eke (1)",
+              "region": "Enugu State"
+            }
+          ]
+        },
+        "description": "祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "1",
+        "name": "饺子大王",
+        "pinned_tweet_id": "2081241584998502673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069400150402121729/-WWeHiuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 87,
+          "like_count": 2667,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 1480
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2050865753658999114",
+    "created_at": "2026-05-04T12:52:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T13:52:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051283704656634226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2029768326705262592",
+          "start": 0,
+          "username": "yen91949"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051283704656634226",
+    "in_reply_to_user_id": "2029768326705262592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051144725768647016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yen91949 ag输了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2050865753658999114",
+        "created_at": "2026-05-04T12:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T13:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051283704656634226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2029768326705262592",
+              "start": 0,
+              "username": "yen91949"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051283704656634226",
+        "in_reply_to_user_id": "2029768326705262592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051144725768647016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yen91949 ag输了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029768326705262592",
+        "conversation_id": "2050865753658999114",
+        "created_at": "2026-05-04T03:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T04:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051144725768647016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1878799432956702720",
+              "start": 0,
+              "username": "qiz77z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051144725768647016",
+        "in_reply_to_user_id": "1878799432956702720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050865753658999114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiz77z 我反着来 输了被法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050060286355554304/yYay5Spf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 88,
+          "like_count": 2296,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 1275
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T03:57:49.000Z",
+        "description": "",
+        "id": "2029768326705262592",
+        "name": "Yjjjww.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041806300171137025/VLXk-YUU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 24,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 55
+        },
+        "username": "yen91949",
+        "verified": false
+      }
+    ]
+  }
+}

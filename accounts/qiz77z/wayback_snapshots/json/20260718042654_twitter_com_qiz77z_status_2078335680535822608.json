@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2076254554639978886",
+    "created_at": "2026-07-18T04:26:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T05:26:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078335680535822608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2022333264594448385",
+          "start": 0,
+          "username": "ji_mi15046"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078335680535822608",
+    "in_reply_to_user_id": "2022333264594448385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076254554639978886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ji_mi15046 你这文案你咋了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2076254548323426305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBWguAbYAEuTuJ.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2076254554639978886",
+        "created_at": "2026-07-18T04:26:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T05:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078335680535822608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2022333264594448385",
+              "start": 0,
+              "username": "ji_mi15046"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078335680535822608",
+        "in_reply_to_user_id": "2022333264594448385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076254554639978886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji_mi15046 你这文案你咋了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076254548323426305"
+          ]
+        },
+        "author_id": "2022333264594448385",
+        "conversation_id": "2076254554639978886",
+        "created_at": "2026-07-12T10:37:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T11:37:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076254554639978886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4qZEEfHi57",
+              "end": 134,
+              "expanded_url": "https://x.com/ji_mi15046/status/2076254554639978886/photo/1",
+              "media_key": "3_2076254548323426305",
+              "start": 111,
+              "url": "https://t.co/4qZEEfHi57"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076254554639978886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4421,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们不需要刻意去追求什么，没有人能逃出墨菲的圈套；被他人的意志所驱使的是迫害，为自我的野心所怂恿的为自缚，只要今天比昨天好，只要无限进步。\n也许你不带着目的的一次投喂会化成补剂和营养，也许几年之后的身材中流动着你的功绩。 https://t.co/4qZEEfHi57"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "饺子大王",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069400150402121729/-WWeHiuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 86,
+          "like_count": 2582,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 1388
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T15:33:29.000Z",
+        "description": "｜哦哦只是一只爱健身的小老鼠！哦哦。谢谢\n｜我姐姐@sansan_9_7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "sansan_9_7"
+              }
+            ]
+          }
+        },
+        "id": "2022333264594448385",
+        "location": "记得天天开心 偶尔来看看鸟",
+        "name": "迷途鸟",
+        "pinned_tweet_id": "2076254554639978886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075042441598750720/sroFwdlV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1729,
+          "following_count": 112,
+          "like_count": 3124,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 1341
+        },
+        "url": "",
+        "username": "ji_mi15046",
+        "verified": false
+      }
+    ]
+  }
+}

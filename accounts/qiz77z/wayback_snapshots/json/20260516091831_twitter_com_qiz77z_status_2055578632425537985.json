@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055578593649143809"
+      ]
+    },
+    "author_id": "1878799432956702720",
+    "conversation_id": "2055578632425537985",
+    "created_at": "2026-05-16T09:18:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T10:18:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055578632425537985"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AgUEKOj7WE",
+          "end": 33,
+          "expanded_url": "https://x.com/qiz77z/status/2055578632425537985/photo/1",
+          "media_key": "3_2055578593649143809",
+          "start": 10,
+          "url": "https://t.co/AgUEKOj7WE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055578632425537985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "天空你是否知晓一切 https://t.co/AgUEKOj7WE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2055578593649143809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIbh1wpasAEghl9.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055578593649143809"
+          ]
+        },
+        "author_id": "1878799432956702720",
+        "conversation_id": "2055578632425537985",
+        "created_at": "2026-05-16T09:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T10:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055578632425537985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AgUEKOj7WE",
+              "end": 33,
+              "expanded_url": "https://x.com/qiz77z/status/2055578632425537985/photo/1",
+              "media_key": "3_2055578593649143809",
+              "start": 10,
+              "url": "https://t.co/AgUEKOj7WE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055578632425537985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天空你是否知晓一切 https://t.co/AgUEKOj7WE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055314944363773952/lqU0-_2z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 89,
+          "like_count": 2318,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 1326
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      }
+    ]
+  }
+}

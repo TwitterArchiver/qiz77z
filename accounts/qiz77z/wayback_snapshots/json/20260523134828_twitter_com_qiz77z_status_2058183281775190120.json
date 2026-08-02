@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2058180041461428390",
+    "created_at": "2026-05-23T13:48:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T14:48:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058183281775190120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2004377925303644160",
+          "start": 0,
+          "username": "allmoneycome2me"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058183281775190120",
+    "in_reply_to_user_id": "2004377925303644160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058180041461428390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@allmoneycome2me 这啥玩意"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058180026718412800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJAf1GBa4AAkMu4.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2058180041461428390",
+        "created_at": "2026-05-23T13:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T14:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058183281775190120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2004377925303644160",
+              "start": 0,
+              "username": "allmoneycome2me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058183281775190120",
+        "in_reply_to_user_id": "2004377925303644160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058180041461428390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@allmoneycome2me 这啥玩意"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058180026718412800"
+          ]
+        },
+        "author_id": "2004377925303644160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2058180041461428390",
+        "created_at": "2026-05-23T13:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T14:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058180041461428390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D4UmhGxIqJ",
+              "end": 41,
+              "expanded_url": "https://x.com/allmoneycome2me/status/2058180041461428390/photo/1",
+              "media_key": "3_2058180026718412800",
+              "start": 18,
+              "url": "https://t.co/D4UmhGxIqJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058180041461428390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "舍友给的，好吃，没吃出来什么馅的😂 https://t.co/D4UmhGxIqJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信 匿名看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055314944363773952/lqU0-_2z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 89,
+          "like_count": 2274,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 1354
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-26T02:25:28.000Z",
+        "description": "好懵逼呀",
+        "id": "2004377925303644160",
+        "name": "季基博",
+        "pinned_tweet_id": "2043946505707630746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056914768460677120/Vdvwj4gn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 5,
+          "like_count": 858,
+          "listed_count": 1,
+          "media_count": 1002,
+          "tweet_count": 3874
+        },
+        "username": "allmoneycome2me",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075246250207948800"
+      ]
+    },
+    "author_id": "1878799432956702720",
+    "conversation_id": "2075246291903459545",
+    "created_at": "2026-07-09T15:50:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T16:50:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075246291903459545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1987561311438610432",
+          "start": 3,
+          "username": "xrwi238646"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MKqA3nKnJi",
+          "end": 38,
+          "expanded_url": "https://x.com/qiz77z/status/2075246291903459545/photo/1",
+          "media_key": "3_2075246250207948800",
+          "start": 15,
+          "url": "https://t.co/MKqA3nKnJi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075246291903459545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不用谢@xrwi238646 https://t.co/MKqA3nKnJi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1167,
+        "media_key": "3_2075246250207948800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMzBeC0bMAAdBnc.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075246250207948800"
+          ]
+        },
+        "author_id": "1878799432956702720",
+        "conversation_id": "2075246291903459545",
+        "created_at": "2026-07-09T15:50:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T16:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075246291903459545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1987561311438610432",
+              "start": 3,
+              "username": "xrwi238646"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MKqA3nKnJi",
+              "end": 38,
+              "expanded_url": "https://x.com/qiz77z/status/2075246291903459545/photo/1",
+              "media_key": "3_2075246250207948800",
+              "start": 15,
+              "url": "https://t.co/MKqA3nKnJi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075246291903459545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不用谢@xrwi238646 https://t.co/MKqA3nKnJi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信 匿名看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "饺子大王zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069400150402121729/-WWeHiuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 83,
+          "like_count": 2508,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 1352
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-09T16:42:13.000Z",
+        "description": "06｜男的｜不定时上线。｜欢迎互fo（请私信）｜互fo会查主页成分。｜很多废话吵到你们报意丝。｜不是男同😡\n176 目前64.7kg，健身中……（仅拍照记录）\n低精力小猪。 小小猪：@yzovoc7（小号不回fo）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 91,
+                "username": "yzovoc7"
+              }
+            ]
+          }
+        },
+        "id": "1987561311438610432",
+        "location": "0.1km",
+        "name": "装忧郁蹲在地上被狗认为是在出餐",
+        "pinned_tweet_id": "2061397921841791468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046234866090721280/Xsbi1Oxr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 232,
+          "like_count": 5695,
+          "listed_count": 3,
+          "media_count": 152,
+          "tweet_count": 2551
+        },
+        "url": "",
+        "username": "xrwi238646",
+        "verified": false
+      }
+    ]
+  }
+}

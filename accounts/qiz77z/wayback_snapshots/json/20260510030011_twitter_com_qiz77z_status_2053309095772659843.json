@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2053308863643078748",
+    "created_at": "2026-05-10T03:00:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T04:00:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053309095772659843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1987561311438610432",
+          "start": 0,
+          "username": "xrwi238646"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053309095772659843",
+    "in_reply_to_user_id": "1987561311438610432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053308863643078748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xrwi238646 哦哦。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 173,
+        "media_key": "3_2053308856286212096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH7RhqEacAA_ouv.jpg",
+        "width": 244
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2053308863643078748",
+        "created_at": "2026-05-10T03:00:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T04:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053309095772659843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987561311438610432",
+              "start": 0,
+              "username": "xrwi238646"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053309095772659843",
+        "in_reply_to_user_id": "1987561311438610432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053308863643078748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xrwi238646 哦哦。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053308856286212096"
+          ]
+        },
+        "author_id": "1987561311438610432",
+        "conversation_id": "2053308863643078748",
+        "created_at": "2026-05-10T02:59:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T03:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053308863643078748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2pXOUpnwtT",
+              "end": 27,
+              "expanded_url": "https://x.com/xrwi238646/status/2053308863643078748/photo/1",
+              "media_key": "3_2053308856286212096",
+              "start": 4,
+              "url": "https://t.co/2pXOUpnwtT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053308863643078748",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哦哦。 https://t.co/2pXOUpnwtT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050060286355554304/yYay5Spf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 89,
+          "like_count": 2314,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 1304
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-09T16:42:13.000Z",
+        "description": "06｜男的｜不定时上线。｜欢迎互关｜互fo会查主页成分。",
+        "id": "1987561311438610432",
+        "name": "装忧郁蹲在地上被狗认为是在出餐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046234866090721280/Xsbi1Oxr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 54,
+          "like_count": 755,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 819
+        },
+        "username": "xrwi238646",
+        "verified": false
+      }
+    ]
+  }
+}

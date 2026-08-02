@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2077819467564978216",
+    "created_at": "2026-07-16T18:15:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T19:15:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077819467564978216"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qiz77z/status/…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/qiz77z/status/2077802513332580419",
+          "start": 29,
+          "url": "https://t.co/IzKgXsPlAB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077819467564978216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077802513332580419",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "正常来说呢。他这个时候已经打完了。算了 人生过客+1…… https://t.co/IzKgXsPlAB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2077819467564978216",
+        "created_at": "2026-07-16T18:15:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T19:15:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077819467564978216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qiz77z/status/…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/qiz77z/status/2077802513332580419",
+              "start": 29,
+              "url": "https://t.co/IzKgXsPlAB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077819467564978216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077802513332580419",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "正常来说呢。他这个时候已经打完了。算了 人生过客+1…… https://t.co/IzKgXsPlAB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2077802513332580419",
+        "created_at": "2026-07-16T17:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T18:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077802513332580419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qiz77z/status/…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/qiz77z/status/2077670662551023879",
+              "start": 25,
+              "url": "https://t.co/qsyb3BM2P9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077802513332580419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077670662551023879",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "心选男不理我了啊啊啊我哭了。希望他是在打游戏…… https://t.co/qsyb3BM2P9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "饺子大王",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069400150402121729/-WWeHiuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 86,
+          "like_count": 2577,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 1380
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      }
+    ]
+  }
+}

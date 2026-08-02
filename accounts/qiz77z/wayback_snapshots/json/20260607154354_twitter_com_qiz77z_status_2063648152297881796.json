@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2063594390187348139",
+    "created_at": "2026-06-07T15:43:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T16:43:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063648152297881796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1962029257548517376",
+          "start": 0,
+          "username": "yy1957989973748"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063648152297881796",
+    "in_reply_to_user_id": "1962029257548517376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063594390187348139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yy1957989973748 万一他对我有意思呢……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2063594390187348139",
+        "created_at": "2026-06-07T15:43:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063648152297881796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1962029257548517376",
+              "start": 0,
+              "username": "yy1957989973748"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063648152297881796",
+        "in_reply_to_user_id": "1962029257548517376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063594390187348139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yy1957989973748 万一他对我有意思呢……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962029257548517376",
+        "conversation_id": "2063594390187348139",
+        "created_at": "2026-06-07T12:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063594390187348139"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063594390187348139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 845,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不当舔狗了 你的心像继笆一样越舔越硬。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信 匿名看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055314944363773952/lqU0-_2z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 89,
+          "like_count": 2359,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 1435
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T05:46:50.000Z",
+        "description": "补药找我聊骚！上推为了看点薄肌😋\nhttps://t.co/QWhJloebdX\n小女子纯绿 🈚️🚪 不🈷️！\n有眼缘会回关嘟～",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yyovo1",
+                "end": 40,
+                "expanded_url": "https://ngl.link/yyovo1",
+                "start": 17,
+                "url": "https://t.co/QWhJloebdX"
+              }
+            ]
+          }
+        },
+        "id": "1962029257548517376",
+        "name": "ᜊ•͈⌔•͈ᜊ",
+        "pinned_tweet_id": "2043564879744036882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059294183542915072/tCJ3qsnc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 266,
+          "like_count": 872,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 572
+        },
+        "username": "yy1957989973748",
+        "verified": false
+      }
+    ]
+  }
+}

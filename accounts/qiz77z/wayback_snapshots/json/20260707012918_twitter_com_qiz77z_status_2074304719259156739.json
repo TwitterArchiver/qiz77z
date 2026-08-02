@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2074148221514055887",
+    "created_at": "2026-07-07T01:29:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T02:29:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074304719259156739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2042374614433562624",
+          "start": 0,
+          "username": "SadZhe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074304719259156739",
+    "in_reply_to_user_id": "2042374614433562624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074274117692305524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SadZhe 气死我了又塌房一个呵呵哒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2074148221514055887",
+        "created_at": "2026-07-07T01:29:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T02:29:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074304719259156739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2042374614433562624",
+              "start": 0,
+              "username": "SadZhe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074304719259156739",
+        "in_reply_to_user_id": "2042374614433562624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074274117692305524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SadZhe 气死我了又塌房一个呵呵哒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042374614433562624",
+        "conversation_id": "2074148221514055887",
+        "created_at": "2026-07-06T23:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T00:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074274117692305524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1878799432956702720",
+              "start": 0,
+              "username": "qiz77z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074274117692305524",
+        "in_reply_to_user_id": "1878799432956702720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074148221514055887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiz77z 呦吼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信 匿名看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "饺子大王zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069400150402121729/-WWeHiuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 86,
+          "like_count": 2484,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 1339
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-09T22:50:39.000Z",
+        "description": "在推特上面随便聊聊",
+        "id": "2042374614433562624",
+        "name": "sad",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042942784806543360/Az-23sgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 23,
+          "like_count": 1270,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 54
+        },
+        "url": "",
+        "username": "SadZhe",
+        "verified": false
+      }
+    ]
+  }
+}

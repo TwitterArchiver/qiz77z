@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2082718856335028479",
+    "created_at": "2026-07-30T16:03:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T17:03:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082859731115528494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1805999677592268800",
+          "start": 0,
+          "username": "1needYumm_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082859731115528494",
+    "in_reply_to_user_id": "1805999677592268800",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082792290096202131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1needYumm_ mc啥都吃。fps吃帧率和显卡好像是。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2082718856335028479",
+        "created_at": "2026-07-30T16:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082859731115528494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1805999677592268800",
+              "start": 0,
+              "username": "1needYumm_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082859731115528494",
+        "in_reply_to_user_id": "1805999677592268800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082792290096202131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1needYumm_ mc啥都吃。fps吃帧率和显卡好像是。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805999677592268800",
+        "conversation_id": "2082718856335028479",
+        "created_at": "2026-07-30T11:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T12:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082792290096202131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1878799432956702720",
+              "start": 0,
+              "username": "qiz77z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082792290096202131",
+        "in_reply_to_user_id": "1878799432956702720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082791978241347954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiz77z 我就玩个mc和瓦。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "NG",
+              "full_name": "Obolo-Eke (1), Enugu State, Nigeria",
+              "geo": {
+                "coordinates": [
+                  7.63333,
+                  6.88333
+                ],
+                "type": "Point"
+              },
+              "locality": "Obolo-Eke (1)",
+              "region": "Enugu State"
+            }
+          ]
+        },
+        "description": "祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "1",
+        "name": "饺子大王",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069400150402121729/-WWeHiuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 87,
+          "like_count": 2665,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 1492
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-26T16:21:05.000Z",
+        "description": "一个长得丑的穷逼在发疯\n🚪188/288\n\nhttps://t.co/fYC1aewmUn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1needyumm_1",
+                "end": 45,
+                "expanded_url": "https://ngl.link/1needyumm_1",
+                "start": 22,
+                "url": "https://t.co/fYC1aewmUn"
+              }
+            ]
+          }
+        },
+        "id": "1805999677592268800",
+        "location": "不爱男不爱女只爱心肝和自己",
+        "name": "小众忧郁名字",
+        "pinned_tweet_id": "2080628724249280777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012722623994556417/WLf7KCL1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 36,
+          "like_count": 4890,
+          "listed_count": 0,
+          "media_count": 240,
+          "tweet_count": 1718
+        },
+        "url": "",
+        "username": "1needYumm_",
+        "verified": false
+      }
+    ]
+  }
+}

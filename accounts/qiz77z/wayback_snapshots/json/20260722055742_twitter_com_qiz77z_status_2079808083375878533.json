@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2079777932676042977",
+    "created_at": "2026-07-22T05:57:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T06:57:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079808083375878533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1712639858995294208",
+          "start": 0,
+          "username": "x1721416"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079808083375878533",
+    "in_reply_to_user_id": "1712639858995294208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079777932676042977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x1721416 生日快乐呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2079777914191859712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNza_msb0AAzYH8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2079777932676042977",
+        "created_at": "2026-07-22T05:57:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T06:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079808083375878533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1712639858995294208",
+              "start": 0,
+              "username": "x1721416"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079808083375878533",
+        "in_reply_to_user_id": "1712639858995294208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079777932676042977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x1721416 生日快乐呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079777914191859712"
+          ]
+        },
+        "author_id": "1712639858995294208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2079777932676042977",
+        "created_at": "2026-07-22T03:57:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T04:57:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079777932676042977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s4n0CDS9HD",
+              "end": 41,
+              "expanded_url": "https://x.com/x1721416/status/2079777932676042977/photo/1",
+              "media_key": "3_2079777914191859712",
+              "start": 18,
+              "url": "https://t.co/s4n0CDS9HD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079777932676042977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 978,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "生日快乐 对象给我买的小蛋糕 嘿嘿 https://t.co/s4n0CDS9HD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "饺子大王",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069400150402121729/-WWeHiuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 88,
+          "like_count": 2579,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 1425
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-13T01:22:28.000Z",
+        "description": "跟着杰杰走，快乐天天有！\n这里是杰杰的分享小屋\n一个有一点健身痕迹的人\n04  Switch  1i  esfj  直男 服务型  巨蟹  艺术生\n一天不🦌积阳德    两天不🦌积积阳阳德\nhttps://t.co/xP13fLtZC0  请找我玩",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1721416xsj",
+                "end": 118,
+                "expanded_url": "https://ngl.link/1721416xsj",
+                "start": 95,
+                "url": "https://t.co/xP13fLtZC0"
+              }
+            ]
+          }
+        },
+        "id": "1712639858995294208",
+        "location": "布吉岛",
+        "name": "杰杰",
+        "pinned_tweet_id": "2045368009553052137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485929021616128/uwnw1QCs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4154,
+          "following_count": 624,
+          "like_count": 40750,
+          "listed_count": 6,
+          "media_count": 270,
+          "tweet_count": 8931
+        },
+        "url": "",
+        "username": "x1721416",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2077091116495831356",
+    "created_at": "2026-07-23T07:24:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T08:24:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080192279495725091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1919000815702024192",
+          "start": 0,
+          "username": "youS_suanr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080192279495725091",
+    "in_reply_to_user_id": "1919000815702024192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080074885494460646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youS_suanr 哦哦哦我选了个最帅的他说不是 然后我选了个比较丑的他说不是。结果是一个中档的。还问我为什么不选 不符合我审美吗。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2077091116495831356",
+        "created_at": "2026-07-23T07:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T08:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080192279495725091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1919000815702024192",
+              "start": 0,
+              "username": "youS_suanr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080192279495725091",
+        "in_reply_to_user_id": "1919000815702024192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080074885494460646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youS_suanr 哦哦哦我选了个最帅的他说不是 然后我选了个比较丑的他说不是。结果是一个中档的。还问我为什么不选 不符合我审美吗。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919000815702024192",
+        "conversation_id": "2077091116495831356",
+        "created_at": "2026-07-22T23:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T00:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080074885494460646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1878799432956702720",
+              "start": 0,
+              "username": "qiz77z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080074885494460646",
+        "in_reply_to_user_id": "1878799432956702720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077091116495831356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiz77z 好看的直接就发照片了，不好看的还要你猜猜看🌚下次看到这种想都不用想了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "饺子大王",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069400150402121729/-WWeHiuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 89,
+          "like_count": 2590,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 1430
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T12:07:54.000Z",
+        "description": "INTP/04/特色是没特色",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyuyurru",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyuyurru",
+                "start": 0,
+                "url": "https://t.co/JrukWTzeJX"
+              }
+            ]
+          }
+        },
+        "id": "1919000815702024192",
+        "location": "白斑独角鱼",
+        "name": "想吃桑葚橘子柚",
+        "pinned_tweet_id": "2027674572192182344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020029258941493248/frZRsq5I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 441,
+          "like_count": 11535,
+          "listed_count": 0,
+          "media_count": 378,
+          "tweet_count": 5384
+        },
+        "url": "https://t.co/JrukWTzeJX",
+        "username": "youS_suanr",
+        "verified": false
+      }
+    ]
+  }
+}

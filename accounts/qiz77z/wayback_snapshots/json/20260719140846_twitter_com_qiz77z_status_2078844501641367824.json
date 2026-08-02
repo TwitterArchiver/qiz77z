@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2078684850689847801",
+    "created_at": "2026-07-19T14:08:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T15:08:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078844501641367824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1801136791166373888",
+          "start": 0,
+          "username": "Ewonjin199580"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078844501641367824",
+    "in_reply_to_user_id": "1801136791166373888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078814741934563548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ewonjin199580 收到。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2078684850689847801",
+        "created_at": "2026-07-19T14:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T15:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078844501641367824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1801136791166373888",
+              "start": 0,
+              "username": "Ewonjin199580"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078844501641367824",
+        "in_reply_to_user_id": "1801136791166373888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078814741934563548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ewonjin199580 收到。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801136791166373888",
+        "conversation_id": "2078684850689847801",
+        "created_at": "2026-07-19T12:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078814741934563548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1878799432956702720",
+              "start": 0,
+              "username": "qiz77z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078814741934563548",
+        "in_reply_to_user_id": "1878799432956702720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078684850689847801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiz77z 买了人字拖要保护好脚趾缝..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "饺子大王",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069400150402121729/-WWeHiuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 87,
+          "like_count": 2541,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 1405
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-13T06:17:37.000Z",
+        "description": "intp",
+        "id": "1801136791166373888",
+        "location": "比基尼海滩",
+        "name": "Ewonjin",
+        "pinned_tweet_id": "2006048182380437945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865215020117954562/XpfDZA40_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 29,
+          "like_count": 802,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 473
+        },
+        "url": "",
+        "username": "Ewonjin199580",
+        "verified": false
+      }
+    ]
+  }
+}

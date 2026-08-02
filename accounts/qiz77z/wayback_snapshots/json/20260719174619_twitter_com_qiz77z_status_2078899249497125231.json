@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2078899249497125231",
+    "created_at": "2026-07-19T17:46:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T18:46:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078899249497125231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1913397698490957824",
+          "start": 3,
+          "username": "77rxmb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078899249497125231",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 333
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078455883999404208",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @77rxmb: 我的面子……\n好想撒娇……我的面子\n好想主动……我的面子\n好想让他陪我……我的面子\n好想分享日常……我的面子\n好想和他打电话……我的面子\n好想问他想没想我……我的面子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2078899249497125231",
+        "created_at": "2026-07-19T17:46:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T18:46:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078899249497125231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1913397698490957824",
+              "start": 3,
+              "username": "77rxmb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078899249497125231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 333
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078455883999404208",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @77rxmb: 我的面子……\n好想撒娇……我的面子\n好想主动……我的面子\n好想让他陪我……我的面子\n好想分享日常……我的面子\n好想和他打电话……我的面子\n好想问他想没想我……我的面子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913397698490957824",
+        "conversation_id": "2078455883999404208",
+        "created_at": "2026-07-18T12:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T13:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078455883999404208"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078455883999404208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 81907,
+          "like_count": 2256,
+          "quote_count": 37,
+          "reply_count": 229,
+          "retweet_count": 333
+        },
+        "reply_settings": "everyone",
+        "text": "我的面子……\n好想撒娇……我的面子\n好想主动……我的面子\n好想让他陪我……我的面子\n好想分享日常……我的面子\n好想和他打电话……我的面子\n好想问他想没想我……我的面子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "饺子大王",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069400150402121729/-WWeHiuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 87,
+          "like_count": 2549,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 1409
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-19T01:02:23.000Z",
+        "description": "x",
+        "id": "1913397698490957824",
+        "location": "中国",
+        "name": "7",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075225046457757696/fKg3IzQK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2968,
+          "following_count": 2,
+          "like_count": 517,
+          "listed_count": 10,
+          "media_count": 25,
+          "tweet_count": 54
+        },
+        "url": "",
+        "username": "77rxmb",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077061366335393792"
+      ]
+    },
+    "author_id": "1878799432956702720",
+    "conversation_id": "2077061370047299707",
+    "created_at": "2026-07-14T16:03:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T17:03:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077061370047299707"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zrQ27rQ90c",
+          "end": 31,
+          "expanded_url": "https://x.com/qiz77z/status/2077061370047299707/photo/1",
+          "media_key": "3_2077061366335393792",
+          "start": 8,
+          "url": "https://t.co/zrQ27rQ90c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077061370047299707",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一个人也很好。 https://t.co/zrQ27rQ90c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077061366335393792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNM0TtUb0AARzya.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077061366335393792"
+          ]
+        },
+        "author_id": "1878799432956702720",
+        "conversation_id": "2077061370047299707",
+        "created_at": "2026-07-14T16:03:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T17:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077061370047299707"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zrQ27rQ90c",
+              "end": 31,
+              "expanded_url": "https://x.com/qiz77z/status/2077061370047299707/photo/1",
+              "media_key": "3_2077061366335393792",
+              "start": 8,
+              "url": "https://t.co/zrQ27rQ90c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077061370047299707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个人也很好。 https://t.co/zrQ27rQ90c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信 匿名看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "饺子大王zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069400150402121729/-WWeHiuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 86,
+          "like_count": 2558,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 1369
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      }
+    ]
+  }
+}

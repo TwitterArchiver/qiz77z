@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2073967818673107220",
+    "created_at": "2026-07-06T15:05:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T16:05:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074147761755451515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1060084311502708736",
+          "start": 0,
+          "username": "dingingcingking"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074147761755451515",
+    "in_reply_to_user_id": "1060084311502708736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073967818673107220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dingingcingking 并且他还是个up主"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2073967818673107220",
+        "created_at": "2026-07-06T15:05:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T16:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074147761755451515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1060084311502708736",
+              "start": 0,
+              "username": "dingingcingking"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074147761755451515",
+        "in_reply_to_user_id": "1060084311502708736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073967818673107220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dingingcingking 并且他还是个up主"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1060084311502708736",
+        "conversation_id": "2073967818673107220",
+        "created_at": "2026-07-06T03:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T04:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073967818673107220"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073967818673107220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 56767,
+          "like_count": 319,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "A居然真是尿我嘴里，怪不得我会听的那么不适和耳熟\n他内容和排版录音太专业了，一看就是专业起号的\n而且他的叫起来特别放的开特别淫荡，内容也毫无下限，我当时就怀疑是不是他\n他的男喘太过老油条了，现在并不符合我的胃口了，我们这种老耳朵就喜欢听一些雏有人懂吗…\n而且他居然有直播切片.. 很吓人啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信 匿名看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "饺子大王zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069400150402121729/-WWeHiuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 86,
+          "like_count": 2482,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 1333
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-07T08:19:30.000Z",
+        "description": "不接电报推广＇其他推广私聊合作  废话很多，偶尔掉落性感照片",
+        "id": "1060084311502708736",
+        "location": "  不知道",
+        "name": "dingingcingking",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1627253477146755072/ggLGz0ty_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65633,
+          "following_count": 262,
+          "like_count": 23954,
+          "listed_count": 140,
+          "media_count": 1373,
+          "tweet_count": 17612
+        },
+        "url": "",
+        "username": "dingingcingking",
+        "verified": false
+      }
+    ]
+  }
+}

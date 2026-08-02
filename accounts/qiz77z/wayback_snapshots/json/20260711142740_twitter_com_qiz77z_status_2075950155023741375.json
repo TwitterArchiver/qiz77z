@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2075921558984614223",
+    "created_at": "2026-07-11T14:27:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T15:27:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075950155023741375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1865933718571098112",
+          "start": 0,
+          "username": "vggg848027"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075950155023741375",
+    "in_reply_to_user_id": "1865933718571098112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075930934009081856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vggg848027 我特么爱因斯坦的电竞脑送给谁了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2075921558984614223",
+        "created_at": "2026-07-11T14:27:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T15:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075950155023741375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1865933718571098112",
+              "start": 0,
+              "username": "vggg848027"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075950155023741375",
+        "in_reply_to_user_id": "1865933718571098112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075930934009081856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vggg848027 我特么爱因斯坦的电竞脑送给谁了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865933718571098112",
+        "conversation_id": "2075921558984614223",
+        "created_at": "2026-07-11T13:11:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T14:11:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075930934009081856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1878799432956702720",
+              "start": 0,
+              "username": "qiz77z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075930934009081856",
+        "in_reply_to_user_id": "1878799432956702720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075921558984614223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiz77z 看来你买的脑子发挥作用了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信 匿名看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "饺子大王zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069400150402121729/-WWeHiuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 85,
+          "like_count": 2532,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 1361
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-09T01:37:35.000Z",
+        "description": "男，有没有和我玩瓦的",
+        "id": "1865933718571098112",
+        "location": "Hong Kong",
+        "name": "vg gg",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891131077550579713/8kWHQ7Bd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 66,
+          "like_count": 654,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1050
+        },
+        "url": "",
+        "username": "vggg848027",
+        "verified": false
+      }
+    ]
+  }
+}

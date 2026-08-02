@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069436370779828224",
+        "3_2069436368212922368",
+        "3_2069436373162176512",
+        "3_2069436368053526528"
+      ]
+    },
+    "author_id": "1878799432956702720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2069436376257605842",
+    "created_at": "2026-06-23T15:04:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T16:04:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069436376257605842"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/toNklT4r0U",
+          "end": 29,
+          "expanded_url": "https://x.com/qiz77z/status/2069436376257605842/photo/1",
+          "media_key": "3_2069436370779828224",
+          "start": 6,
+          "url": "https://t.co/toNklT4r0U"
+        },
+        {
+          "display_url": "pic.x.com/toNklT4r0U",
+          "end": 29,
+          "expanded_url": "https://x.com/qiz77z/status/2069436376257605842/photo/1",
+          "media_key": "3_2069436368212922368",
+          "start": 6,
+          "url": "https://t.co/toNklT4r0U"
+        },
+        {
+          "display_url": "pic.x.com/toNklT4r0U",
+          "end": 29,
+          "expanded_url": "https://x.com/qiz77z/status/2069436376257605842/photo/1",
+          "media_key": "3_2069436373162176512",
+          "start": 6,
+          "url": "https://t.co/toNklT4r0U"
+        },
+        {
+          "display_url": "pic.x.com/toNklT4r0U",
+          "end": 29,
+          "expanded_url": "https://x.com/qiz77z/status/2069436376257605842/photo/1",
+          "media_key": "3_2069436368053526528",
+          "start": 6,
+          "url": "https://t.co/toNklT4r0U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069436376257605842",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "枯燥的生活 https://t.co/toNklT4r0U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069436370779828224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgdajWa8AAaJnd.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069436368212922368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgdaZybEAAiq9o.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069436373162176512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgdasOasAA49NW.jpg",
+        "width": 1151
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069436368053526528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLgdaZMa4AA6OSJ.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069436370779828224",
+            "3_2069436368212922368",
+            "3_2069436373162176512",
+            "3_2069436368053526528"
+          ]
+        },
+        "author_id": "1878799432956702720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069436376257605842",
+        "created_at": "2026-06-23T15:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T16:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069436376257605842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/toNklT4r0U",
+              "end": 29,
+              "expanded_url": "https://x.com/qiz77z/status/2069436376257605842/photo/1",
+              "media_key": "3_2069436370779828224",
+              "start": 6,
+              "url": "https://t.co/toNklT4r0U"
+            },
+            {
+              "display_url": "pic.x.com/toNklT4r0U",
+              "end": 29,
+              "expanded_url": "https://x.com/qiz77z/status/2069436376257605842/photo/1",
+              "media_key": "3_2069436368212922368",
+              "start": 6,
+              "url": "https://t.co/toNklT4r0U"
+            },
+            {
+              "display_url": "pic.x.com/toNklT4r0U",
+              "end": 29,
+              "expanded_url": "https://x.com/qiz77z/status/2069436376257605842/photo/1",
+              "media_key": "3_2069436373162176512",
+              "start": 6,
+              "url": "https://t.co/toNklT4r0U"
+            },
+            {
+              "display_url": "pic.x.com/toNklT4r0U",
+              "end": 29,
+              "expanded_url": "https://x.com/qiz77z/status/2069436376257605842/photo/1",
+              "media_key": "3_2069436368053526528",
+              "start": 6,
+              "url": "https://t.co/toNklT4r0U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069436376257605842",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "枯燥的生活 https://t.co/toNklT4r0U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信 匿名看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2Xzn2pV"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "饺子大王zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069400150402121729/-WWeHiuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 90,
+          "like_count": 2433,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1298
+        },
+        "url": "https://t.co/uuU2Xzn2pV",
+        "username": "qiz77z",
+        "verified": false
+      }
+    ]
+  }
+}

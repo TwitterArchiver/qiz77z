@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082790992844079104",
+        "3_2082791054504509440",
+        "3_2082791141913882624",
+        "3_2082791211744759808"
+      ]
+    },
+    "author_id": "1878799432956702720",
+    "conversation_id": "2082791490301087822",
+    "created_at": "2026-07-30T11:32:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T12:32:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082791490301087822"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UUJRQO8Tsm",
+          "end": 49,
+          "expanded_url": "https://x.com/qiz77z/status/2082791490301087822/photo/1",
+          "media_key": "3_2082790992844079104",
+          "start": 26,
+          "url": "https://t.co/UUJRQO8Tsm"
+        },
+        {
+          "display_url": "pic.x.com/UUJRQO8Tsm",
+          "end": 49,
+          "expanded_url": "https://x.com/qiz77z/status/2082791490301087822/photo/1",
+          "media_key": "3_2082791054504509440",
+          "start": 26,
+          "url": "https://t.co/UUJRQO8Tsm"
+        },
+        {
+          "display_url": "pic.x.com/UUJRQO8Tsm",
+          "end": 49,
+          "expanded_url": "https://x.com/qiz77z/status/2082791490301087822/photo/1",
+          "media_key": "3_2082791141913882624",
+          "start": 26,
+          "url": "https://t.co/UUJRQO8Tsm"
+        },
+        {
+          "display_url": "pic.x.com/UUJRQO8Tsm",
+          "end": 49,
+          "expanded_url": "https://x.com/qiz77z/status/2082791490301087822/photo/1",
+          "media_key": "3_2082791211744759808",
+          "start": 26,
+          "url": "https://t.co/UUJRQO8Tsm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082791490301087822",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我知道好想把这三个拼了因为我已经拼了一个 好累好累 https://t.co/UUJRQO8Tsm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1894,
+        "media_key": "3_2082790992844079104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOePX3XawAAJuLU.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1896,
+        "media_key": "3_2082791054504509440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOePbdEaQAAiYxf.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1896,
+        "media_key": "3_2082791141913882624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOePgisbcAA9uDI.jpg",
+        "width": 1440
+      },
+      {
+        "height": 4000,
+        "media_key": "3_2082791211744759808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOePkm1aEAA01t6.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082790992844079104",
+            "3_2082791054504509440",
+            "3_2082791141913882624",
+            "3_2082791211744759808"
+          ]
+        },
+        "author_id": "1878799432956702720",
+        "conversation_id": "2082791490301087822",
+        "created_at": "2026-07-30T11:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T12:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082791490301087822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UUJRQO8Tsm",
+              "end": 49,
+              "expanded_url": "https://x.com/qiz77z/status/2082791490301087822/photo/1",
+              "media_key": "3_2082790992844079104",
+              "start": 26,
+              "url": "https://t.co/UUJRQO8Tsm"
+            },
+            {
+              "display_url": "pic.x.com/UUJRQO8Tsm",
+              "end": 49,
+              "expanded_url": "https://x.com/qiz77z/status/2082791490301087822/photo/1",
+              "media_key": "3_2082791054504509440",
+              "start": 26,
+              "url": "https://t.co/UUJRQO8Tsm"
+            },
+            {
+              "display_url": "pic.x.com/UUJRQO8Tsm",
+              "end": 49,
+              "expanded_url": "https://x.com/qiz77z/status/2082791490301087822/photo/1",
+              "media_key": "3_2082791141913882624",
+              "start": 26,
+              "url": "https://t.co/UUJRQO8Tsm"
+            },
+            {
+              "display_url": "pic.x.com/UUJRQO8Tsm",
+              "end": 49,
+              "expanded_url": "https://x.com/qiz77z/status/2082791490301087822/photo/1",
+              "media_key": "3_2082791211744759808",
+              "start": 26,
+              "url": "https://t.co/UUJRQO8Tsm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082791490301087822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我知道好想把这三个拼了因为我已经拼了一个 好累好累 https://t.co/UUJRQO8Tsm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "NG",
+              "full_name": "Obolo-Eke (1), Enugu State, Nigeria",
+              "geo": {
+                "coordinates": [
+                  7.63333,
+                  6.88333
+                ],
+                "type": "Point"
+              },
+              "locality": "Obolo-Eke (1)",
+              "region": "Enugu State"
+            }
+          ]
+        },
+        "description": "祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "1",
+        "name": "饺子大王",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069400150402121729/-WWeHiuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 88,
+          "like_count": 2664,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 1490
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      }
+    ]
+  }
+}

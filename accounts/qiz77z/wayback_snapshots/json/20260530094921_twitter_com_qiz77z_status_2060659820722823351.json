@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2060659775990648832"
+      ]
+    },
+    "author_id": "1878799432956702720",
+    "conversation_id": "2060659820722823351",
+    "created_at": "2026-05-30T09:49:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T10:49:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060659820722823351"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MP88pkVylP",
+          "end": 28,
+          "expanded_url": "https://x.com/qiz77z/status/2060659820722823351/video/1",
+          "media_key": "13_2060659775990648832",
+          "start": 5,
+          "url": "https://t.co/MP88pkVylP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060659820722823351",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "声控福利 https://t.co/MP88pkVylP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30371,
+        "height": 1088,
+        "media_key": "13_2060659775990648832",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2060659775990648832/img/GSDLOdeEd3BETdCc.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060659775990648832/vid/avc1/300x270/tZ-dQUapJM-IRrih.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060659775990648832/vid/avc1/402x360/jnG-H4X56PUI5GaR.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2060659775990648832/vid/avc1/804x720/o4gRK1NZ5IMOHYEt.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2060659775990648832/pl/woXm4c78SbB01qzr.m3u8?tag=14"
+          }
+        ],
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2060659775990648832"
+          ]
+        },
+        "author_id": "1878799432956702720",
+        "conversation_id": "2060659820722823351",
+        "created_at": "2026-05-30T09:49:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:49:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060659820722823351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MP88pkVylP",
+              "end": 28,
+              "expanded_url": "https://x.com/qiz77z/status/2060659820722823351/video/1",
+              "media_key": "13_2060659775990648832",
+              "start": 5,
+              "url": "https://t.co/MP88pkVylP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060659820722823351",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "声控福利 https://t.co/MP88pkVylP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信 匿名看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055314944363773952/lqU0-_2z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 90,
+          "like_count": 2306,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1381
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      }
+    ]
+  }
+}

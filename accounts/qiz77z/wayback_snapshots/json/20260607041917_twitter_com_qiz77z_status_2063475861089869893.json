@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2063289606657999005",
+    "created_at": "2026-06-07T04:19:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T05:19:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063475861089869893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1642447791258746880",
+          "start": 0,
+          "username": "Tone132886Tone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063475861089869893",
+    "in_reply_to_user_id": "1642447791258746880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063361827057369316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tone132886Tone 神的日常"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2063289606657999005",
+        "created_at": "2026-06-07T04:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T05:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063475861089869893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1642447791258746880",
+              "start": 0,
+              "username": "Tone132886Tone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063475861089869893",
+        "in_reply_to_user_id": "1642447791258746880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063361827057369316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tone132886Tone 神的日常"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642447791258746880",
+        "conversation_id": "2063289606657999005",
+        "created_at": "2026-06-06T20:46:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T21:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063361827057369316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1878799432956702720",
+              "start": 0,
+              "username": "qiz77z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063361827057369316",
+        "in_reply_to_user_id": "1878799432956702720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063289606657999005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiz77z 这期神了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信 匿名看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055314944363773952/lqU0-_2z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 89,
+          "like_count": 2348,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1420
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-02T08:44:12.000Z",
+        "description": "",
+        "id": "1642447791258746880",
+        "name": "tone",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060640373085794304/qxESK8o8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 21,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 31
+        },
+        "username": "Tone132886Tone",
+        "verified": false
+      }
+    ]
+  }
+}

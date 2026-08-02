@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2081964683305844791",
+    "created_at": "2026-07-28T04:47:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T05:47:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081964683305844791"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cOniqGBygQ1692…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/cOniqGBygQ16927/status/2081691344368472098",
+          "start": 5,
+          "url": "https://t.co/n6YbsGU1yf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081964683305844791",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081691344368472098",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是蠢猪 https://t.co/n6YbsGU1yf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2081964683305844791",
+        "created_at": "2026-07-28T04:47:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T05:47:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081964683305844791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cOniqGBygQ1692…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/cOniqGBygQ16927/status/2081691344368472098",
+              "start": 5,
+              "url": "https://t.co/n6YbsGU1yf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081964683305844791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081691344368472098",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是蠢猪 https://t.co/n6YbsGU1yf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009907458530258945",
+        "conversation_id": "2081691344368472098",
+        "created_at": "2026-07-27T10:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T11:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081691344368472098"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081691344368472098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17556,
+          "like_count": 117,
+          "quote_count": 2,
+          "reply_count": 38,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "把私密照发给喜欢的人是他吗恋爱脑行为"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "NG",
+              "full_name": "Obolo-Eke (1), Enugu State, Nigeria",
+              "geo": {
+                "coordinates": [
+                  7.63333,
+                  6.88333
+                ],
+                "type": "Point"
+              },
+              "locality": "Obolo-Eke (1)",
+              "region": "Enugu State"
+            }
+          ]
+        },
+        "description": "祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "1",
+        "name": "饺子大王",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069400150402121729/-WWeHiuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 89,
+          "like_count": 2643,
+          "listed_count": 2,
+          "media_count": 125,
+          "tweet_count": 1486
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-10T08:37:49.000Z",
+        "description": "没事可以找我喵喵天",
+        "id": "2009907458530258945",
+        "name": "没你挺痛的",
+        "pinned_tweet_id": "2080850875455865151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081289775441465344/-bnuo5CJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1629,
+          "following_count": 28,
+          "like_count": 1488,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1265
+        },
+        "url": "",
+        "username": "cOniqGBygQ16927",
+        "verified": false
+      }
+    ]
+  }
+}

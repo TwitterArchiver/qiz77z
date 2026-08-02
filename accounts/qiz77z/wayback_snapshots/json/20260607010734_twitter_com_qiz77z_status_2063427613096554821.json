@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2063376504436756857",
+    "created_at": "2026-06-07T01:07:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T02:07:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063427613096554821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1979620411609612288",
+          "start": 0,
+          "username": "iamhaliz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063427613096554821",
+    "in_reply_to_user_id": "1979620411609612288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063376504436756857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iamhaliz 这个世界上最爱烧钱的人来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2063376499122569216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKKV_mQXAAAINpp.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063376499126747136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKKV_mRWwAA5ov2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2063376504436756857",
+        "created_at": "2026-06-07T01:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T02:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063427613096554821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1979620411609612288",
+              "start": 0,
+              "username": "iamhaliz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063427613096554821",
+        "in_reply_to_user_id": "1979620411609612288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063376504436756857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iamhaliz 这个世界上最爱烧钱的人来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063376499122569216",
+            "3_2063376499126747136"
+          ]
+        },
+        "author_id": "1979620411609612288",
+        "conversation_id": "2063376504436756857",
+        "created_at": "2026-06-06T21:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T22:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063376504436756857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qPB9EihIM7",
+              "end": 42,
+              "expanded_url": "https://x.com/iamhaliz/status/2063376504436756857/photo/1",
+              "media_key": "3_2063376499122569216",
+              "start": 19,
+              "url": "https://t.co/qPB9EihIM7"
+            },
+            {
+              "display_url": "pic.x.com/qPB9EihIM7",
+              "end": 42,
+              "expanded_url": "https://x.com/iamhaliz/status/2063376504436756857/photo/1",
+              "media_key": "3_2063376499126747136",
+              "start": 19,
+              "url": "https://t.co/qPB9EihIM7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063376504436756857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在现场就给我看这个啊。 我真的力竭了 https://t.co/qPB9EihIM7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信 匿名看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055314944363773952/lqU0-_2z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 89,
+          "like_count": 2343,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1415
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-18T18:47:54.000Z",
+        "description": "就爱发点碎碎念\n所以\n欧服瓦有无🤓",
+        "id": "1979620411609612288",
+        "location": "London, England",
+        "name": "KashyyyK",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029328150287581184/zeuoU368_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 14,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 108
+        },
+        "username": "iamhaliz",
+        "verified": false
+      }
+    ]
+  }
+}

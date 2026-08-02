@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2076708103006101994",
+    "created_at": "2026-07-24T16:02:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T17:02:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080685172299817329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1866025922744475648",
+          "start": 0,
+          "username": "SthIliya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080685172299817329",
+    "in_reply_to_user_id": "1866025922744475648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080653978682220751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SthIliya 只是梦里。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2076708103006101994",
+        "created_at": "2026-07-24T16:02:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T17:02:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080685172299817329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1866025922744475648",
+              "start": 0,
+              "username": "SthIliya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080685172299817329",
+        "in_reply_to_user_id": "1866025922744475648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080653978682220751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SthIliya 只是梦里。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866025922744475648",
+        "conversation_id": "2076708103006101994",
+        "created_at": "2026-07-24T13:58:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080653978682220751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1878799432956702720",
+              "start": 0,
+              "username": "qiz77z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080653978682220751",
+        "in_reply_to_user_id": "1878799432956702720",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080639854367650002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiz77z ？？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "饺子大王",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069400150402121729/-WWeHiuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 89,
+          "like_count": 2598,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 1434
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-09T07:44:04.000Z",
+        "description": "废物事务所   脾气很大 见谁骂谁",
+        "id": "1866025922744475648",
+        "name": "MiRaCLe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866027436087078912/S4sT4Qro_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 24,
+          "like_count": 4041,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 161
+        },
+        "url": "",
+        "username": "SthIliya",
+        "verified": false
+      }
+    ]
+  }
+}

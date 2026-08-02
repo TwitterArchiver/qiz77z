@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2080651711644053594",
+    "created_at": "2026-07-24T16:07:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T17:07:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080686300970266916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2022333264594448385",
+          "start": 0,
+          "username": "ji_mi15046"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080686300970266916",
+    "in_reply_to_user_id": "2022333264594448385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080651711644053594",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ji_mi15046 你是鸟 鸟脖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2080651711644053594",
+        "created_at": "2026-07-24T16:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T17:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080686300970266916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2022333264594448385",
+              "start": 0,
+              "username": "ji_mi15046"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080686300970266916",
+        "in_reply_to_user_id": "2022333264594448385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080651711644053594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji_mi15046 你是鸟 鸟脖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022333264594448385",
+        "conversation_id": "2080651711644053594",
+        "created_at": "2026-07-24T13:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080651711644053594"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080651711644053594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真服了 每次躺下来推胸都会使劲低头发力\n导致我站起来的时候下颌紧紧的\n于是健身房就有一只鸭子在使劲伸鸭脖🤩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "饺子大王",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069400150402121729/-WWeHiuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 89,
+          "like_count": 2600,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 1435
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T15:33:29.000Z",
+        "description": "｜哦哦只是一只爱健身的小老鼠！哦哦。谢谢\n｜https://t.co/tdZ6Za7lUl 留言板\n｜我姐姐@sansan_9_7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "sansan_9_7"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/nowaybird",
+                "end": 45,
+                "expanded_url": "https://ngl.link/nowaybird",
+                "start": 22,
+                "url": "https://t.co/tdZ6Za7lUl"
+              }
+            ]
+          }
+        },
+        "id": "2022333264594448385",
+        "location": "记得天天开心 偶尔来看看鸟",
+        "name": "迷途鸟",
+        "pinned_tweet_id": "2076254554639978886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075042441598750720/sroFwdlV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1747,
+          "following_count": 111,
+          "like_count": 3179,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1363
+        },
+        "url": "",
+        "username": "ji_mi15046",
+        "verified": false
+      }
+    ]
+  }
+}

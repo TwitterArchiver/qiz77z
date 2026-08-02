@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1878799432956702720",
+    "conversation_id": "2051143121786818697",
+    "created_at": "2026-05-04T11:32:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T12:32:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051263817519452516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1716325928479903744",
+          "start": 0,
+          "username": "qiu_song60259"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051263817519452516",
+    "in_reply_to_user_id": "1716325928479903744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051143121786818697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiu_song60259 我昨天也是。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878799432956702720",
+        "conversation_id": "2051143121786818697",
+        "created_at": "2026-05-04T11:32:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T12:32:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051263817519452516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1716325928479903744",
+              "start": 0,
+              "username": "qiu_song60259"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051263817519452516",
+        "in_reply_to_user_id": "1716325928479903744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051143121786818697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiu_song60259 我昨天也是。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1716325928479903744",
+        "conversation_id": "2051143121786818697",
+        "created_at": "2026-05-04T03:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T04:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051143121786818697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/33mmm010170/st…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/33mmm010170/status/2051143017814470741",
+              "start": 12,
+              "url": "https://t.co/TGBIEoAVfe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051143121786818697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2040,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051143017814470741",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "下次记得把加速器关了。 https://t.co/TGBIEoAVfe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-01-13T13:41:18.000Z",
+        "description": "私信看心情回 祝你们天天开心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jzdwnbkls1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jzdwnbkls1",
+                "start": 0,
+                "url": "https://t.co/uuU2XznAft"
+              }
+            ]
+          }
+        },
+        "id": "1878799432956702720",
+        "location": "推止于推",
+        "name": "zz",
+        "pinned_tweet_id": "2025412946898415865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050060286355554304/yYay5Spf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 91,
+          "like_count": 2297,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 1272
+        },
+        "url": "https://t.co/uuU2XznAft",
+        "username": "qiz77z",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-23T05:29:38.000Z",
+        "description": "我只是在自说自话TvT丨09苦逼美术生丨双性恋丨hello你们好我是苦瓜/小咪咪（别忘记我我喜欢改头像和名字TωT）|小号闭关只过互关熟人@Kuguadawang6677 新开一个玩以后用作主号@o65518kuguagua 我很吵介意可以直接双取^w^ 心肝@imcutefate 我闺闺❤️@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 69,
+                "username": "Kuguadawang6677"
+              },
+              {
+                "end": 112,
+                "start": 97,
+                "username": "o65518kuguagua"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "imcutefate"
+              },
+              {
+                "end": 159,
+                "start": 147,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/YLzBwcv4VK"
+              }
+            ]
+          }
+        },
+        "id": "1716325928479903744",
+        "location": "该用户已关机     匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2047719676860624989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050109337767395328/xvjxcLHW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4618,
+          "following_count": 1534,
+          "like_count": 17522,
+          "listed_count": 6,
+          "media_count": 484,
+          "tweet_count": 9063
+        },
+        "url": "https://t.co/YLzBwcv4VK",
+        "username": "qiu_song60259",
+        "verified": false
+      }
+    ]
+  }
+}
