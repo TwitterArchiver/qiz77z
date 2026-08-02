@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-02T15:23:37",
+  "last_updated": "2026-08-02T15:23:50",
   "html": {
     "https://web.archive.org/web/20260501164538if_/https://twitter.com/qiz77z/status/2050255334611259623": {
       "status": "done",
@@ -4154,9 +4154,9 @@
       "referenced_by": [
         "20260530094921_twitter_com_qiz77z_status_2060659820722823351.json"
       ],
-      "last_updated": "2026-08-02T15:16:25",
+      "last_updated": "2026-08-02T15:23:50",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260530094921/https://video.twimg.com/amplify_video/2060659775990648832/vid/avc1/804x720/o4gRK1NZ5IMOHYEt.mp4?tag=14",
-      "miss_count": 2
+      "miss_count": 3
     }
   },
   "avatars": {
